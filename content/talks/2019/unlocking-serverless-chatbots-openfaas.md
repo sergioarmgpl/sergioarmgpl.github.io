@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "OSCON, Oreilly Media 2019"
+title = "OSCON, Oreilly Media 2019, US, Portland, OR"
 date = "2019-07-17"
 description = ""
 tags = [

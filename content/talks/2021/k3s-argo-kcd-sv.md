@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Machine Learning Pipelines with K3s & Argo. KCD SV"
+title = "Machine Learning Pipelines with K3s & Argo. KCD, El Salvador"
 date = "2021-01-30"
 description = ""
 tags = [
