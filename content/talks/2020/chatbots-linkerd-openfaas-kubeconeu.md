@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Service Mesh and Serverless Chatbots with Linkerd, K8s and OpenFaas, KubeconEU 2020"
+title = "Service Mesh and Serverless Chatbots with Linkerd, K8s and OpenFaas, KubeconEU"
 date = "2020-08-20"
 description = ""
 tags = [

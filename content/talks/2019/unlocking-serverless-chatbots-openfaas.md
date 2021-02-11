@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "OSCON, Oreilly Media 2019, US, Portland, OR"
+title = "Unlocking your serverless functions with OpenFaaS for AI chatbot projects, OSCON, O'Reilly Media, US, Portland, OR"
 date = "2019-07-17"
 description = ""
 tags = [
