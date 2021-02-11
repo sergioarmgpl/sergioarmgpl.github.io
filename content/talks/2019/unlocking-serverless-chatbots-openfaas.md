@@ -11,8 +11,7 @@ tags = [
 +++
 Sergio Mendez examines critical challenges and the case study of Movistar to choose the right technologies to design an open source serverless architecture using OpenFaaS on top of Kubernetes and other complementary technologies like NoSQL, brokers to deploy Telegram AI chatbots, and how these technologies can be compared to vendor lock in services offered by major cloud providers.
 
-[Event Link](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/detail/76105.html)  
-[Slides](https://docs.google.com/presentation/d/1du12ux5nrCj_5AOvxe8xc-CZmjoWhKbWU_QPEDeN19s/edit?usp=sharing) | 
+[Event Link](https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/detail/76105.html) | [Slides](https://docs.google.com/presentation/d/1du12ux5nrCj_5AOvxe8xc-CZmjoWhKbWU_QPEDeN19s/edit?usp=sharing)
 <!--more-->
 ---
 
