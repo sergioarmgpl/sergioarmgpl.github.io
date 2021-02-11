@@ -12,8 +12,8 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 # Education:
-   - Master in Virtual Education, Pan-American University, UPANA (2018)
-   - Bachelor in Computer Sciences, National University of Guatemala, San Carlos (2009)
+   - Master in Online Education, UPANA University, Guatemala (2018)
+   - Bachelor in Computer Sciences, USAC University, Guatemala (2009)
 
 <br>
    
