@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "Service Mesh and Serverless Chatbots with Linkerd, K8s and OpenFaas, SG, México"
-date = "2020-08-20"
+date = "2020-05-04"
 description = ""
 tags = [
     "kubernetes",
@@ -14,14 +14,14 @@ The session also presented a simple architecture, the workflow and the way to im
 At the end of the session the speaker presented a short demo on how can implement a canary, blue/green deployments for serverless chatbots with some support intelligence.
 
 [Event Link](https://sg.com.mx/sgvirtual/sessions/service-mesh-and-serverless-chatbots-with-linkerd-k8s-and-openfaas/) | 
-[Slides](https://b.link/kubeconeu2020-linkerd-openfaas) | 
+[Slides](https://www.slideshare.net/RevistaSG/service-mesh-and-serverless-chatbots-with-linkerd-k8s-and-openfaas) | 
 [Demo Repository](https://github.com/sergioarmgpl/linkerd-openfaas-kubeconeu-2020)
 <!--more-->
 ---
 
 ### Video
 
-{{< youtube bNoeI_Wi-R0 >}}
+{{< youtube UHw1LnqiGuw >}}
 
 <br>
 
@@ -29,6 +29,8 @@ At the end of the session the speaker presented a short demo on how can implemen
 
 ### Tweet
 
-{{< twitter_simple 1296546668624711688 >}}
+{{< twitter_simple 1252722298852868096 >}}
+
+{{< twitter_simple 1252620536166916096 >}}
 
 <br>
