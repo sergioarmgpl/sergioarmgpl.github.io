@@ -1,8 +1,8 @@
 ---
-author: Hugo Authors
-title: Contact
+author: Sergio Méndez
+title: Contact & Meet
 date: 2019-03-08
-description: Contact Page
+description: Contact & Meet
 contact: false
 ---
 Write at:
@@ -10,3 +10,6 @@ Write at:
    
 You can find me in social networks as:
 * sergioarmgpl
+
+To schedule a Meeting:
+* https://calendly.com/sergioarmgpl/meeting
