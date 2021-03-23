@@ -58,6 +58,11 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/sergioarmgpl/"
 
 [[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://twitter.com/sergioarmgpl"
+
+[[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/sergioarmgpl"
@@ -70,7 +75,7 @@ url = "https://github.com/sergioarmgpl"
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@sergiops.xyz"
+url = "mailto:sergioarm.gpl@gmail.com"
 
 ## Menu items
 
