@@ -11,7 +11,7 @@ tags = [
     "servicemesh"
 ]
 +++
-DevCon2021 asian conference presented my pre-recorded talk about a quick Chaos Engineering introduction using Chaos Mesh and Linkerd..
+DevCon2021 asian conference presented my pre-recorded talk about a quick Chaos Engineering introduction using Chaos Mesh and Linkerd. Online event.
 
 [Event Link](https://pingcap.com/zh/events/devcon2021) | 
 [Slides](https://b.link/DevCon2021ChaosMeshIntro) | 
