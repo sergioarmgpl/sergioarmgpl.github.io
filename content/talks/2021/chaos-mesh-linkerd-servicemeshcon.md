@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Building MLOps POCs and Sandbox Environments Using K3s and Argo. KubeConEU, Amsterdam"
+title = "Creating Chaos in the University with Linkerd and Chaos Mesh. ServiceMeshConEU, Amsterdam"
 date = "2021-05-04"
 description = ""
 tags = [
