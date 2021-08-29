@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Chaos Engineering with Chaos Mesh® and Linkerd"
+title = "Chaos Engineering with Chaos Mesh® and Linkerd. DevCon, China"
 date = "2021-07-24"
 description = ""
 tags = [
@@ -14,7 +14,7 @@ tags = [
 DevCon2021 asian conference presented my pre-recorded talk about a quick Chaos Engineering introduction using Chaos Mesh and Linkerd. Online event.
 
 [Event Link](https://pingcap.com/zh/events/devcon2021) | 
-[Slides](https://b.link/DevCon2021ChaosMeshIntro) | 
+[Slides](https://b.link/DevCon2021ChaosMeshIntro)
 <!--more-->
 ---
 <!--

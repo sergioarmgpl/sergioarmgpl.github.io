@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Covid Realtime Visualizer with K8s, Linkerd & Chaos Mesh, Spain"
+title = "Covid Realtime Visualizer with K8s, Linkerd & Chaos Mesh. KCD, Spain"
 date = "2021-06-10"
 description = ""
 tags = [
