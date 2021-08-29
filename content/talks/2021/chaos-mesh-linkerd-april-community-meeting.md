@@ -14,7 +14,7 @@ tags = [
 We talked with Jossie Castrillo at the Chaos Mesh April Community Meeting about Chaos Engineering with Chaos Mesh and Linkerd. Online Event.
 
 [Event Link](https://hubs.ly/H0Lz5mg0) | 
-[Slides](https://b.link/ChaosMeshUSACSlides) | 
+[Slides](https://b.link/ChaosMeshUSACSlides)
 <!--more-->
 ---
 
