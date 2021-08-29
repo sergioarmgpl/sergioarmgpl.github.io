@@ -22,8 +22,8 @@ pygmentsCodefencesGuessSyntax = true
 title = "I'm Sergio Méndez"
 author = "Sergio Méndez"
 copyright = "2020-2021"
-description = "DevOps, Cloud Native, Speaker, CNCF Meetup organizer, CKA, Kubernetes"
-profilePicture = "images/profile.jpg"
+description = "DevOps, Cloud Native, Speaker, CNCF Meetup organizer, Kubernetes CK{A,AD}"
+profilePicture = "https://github.com/sergioarmgpl.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
