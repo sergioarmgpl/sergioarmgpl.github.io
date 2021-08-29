@@ -88,6 +88,12 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "/"
 
   [[menu.main]]
+  name = "Timeline"
+  identifier = "timeline"
+  weight = 150
+  url = "https://timeline.sergiops.xyz"
+
+  [[menu.main]]
   name = "Posts"
   weight = 200
   identifier = "posts"
