@@ -90,41 +90,47 @@ url = "mailto:sergioarm.gpl@gmail.com"
   [[menu.main]]
   name = "Timeline"
   identifier = "timeline"
-  weight = 150
+  weight = 200
   url = "https://timeline.sergiops.xyz"
 
   [[menu.main]]
   name = "Blog"
-  weight = 200
+  weight = 300
   identifier = "blog"
   url = "https://blog.sergiops.xyz"
 
   [[menu.main]]
-  name = "Resume"
-  weight = 300
-  identifier = "resume"
-  url = "https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/export?format=pdf"
-
-  [[menu.main]]
   name = "Talks"
-  weight = 500
+  weight = 400
   identifier = "talks"
   url = "/talks/"
 
   [[menu.main]]
   name = "Community"
-  weight = 600
+  weight = 500
   identifier = "community"
   url = "/community/"
 
   [[menu.main]]
-  name = "About"
+  name = "Github"
+  weight = 600
+  identifier = "github"
+  url = "https://github.com/sergioarmgpl"
+
+  [[menu.main]]
+  name = "Resume"
   weight = 700
+  identifier = "resume"
+  url = "https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/export?format=pdf"
+
+  [[menu.main]]
+  name = "About"
+  weight = 800
   identifier = "about"
   url = "/about/"
 
   [[menu.main]]
   name = "Contact & Meet"
-  weight = 800
+  weight = 900
   identifier = "contact"
   url = "/contact/"
