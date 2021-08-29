@@ -94,10 +94,10 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "https://timeline.sergiops.xyz"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "blog"
+  url = "https://blog.sergiops.xyz"
 
   [[menu.main]]
   name = "Resume"
