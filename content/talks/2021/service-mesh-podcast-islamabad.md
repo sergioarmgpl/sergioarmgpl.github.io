@@ -10,6 +10,8 @@ tags = [
 ]
 +++
 I spoke at the Cloud Native FM / Cloud Native Islamabad Podcast with Saim Safdar. Online Event.
+
+[Podcast](https://www.youtube.com/watch?v=5gcyx0H8mrs)
 <!--more-->
 ---
 
