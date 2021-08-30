@@ -11,7 +11,7 @@ tags = [
 +++
 I spoke in the Curiefense/Reblaze Podcast with Justin Dorfman. Online Event.
 
-[Podcast](https://podcast.curiefense.io/4)
+[Podcast Link](https://podcast.curiefense.io/4)
 <!--more-->
 ---
 
