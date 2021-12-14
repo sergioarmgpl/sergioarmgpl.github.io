@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Building the next generation of cloud native engineers"
+title = "Building the next generation of cloud native engineers, WTFisCloudNative"
 date = "2021-11-04"
 description = ""
 tags = [
