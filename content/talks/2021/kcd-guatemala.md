@@ -15,7 +15,7 @@ This was the Twitter account for the event:
 - https://twitter.com/kcdguatemala
 
 [Event Link](http://kcdgt.com) | 
-[KCD Guatemala, Day 1 Students, Youtube Playlist](https://www.youtube.com/watch?v=Rs8-kAI1SRA&list=PL8hlF0_rzCDyjN9N7S-wrQZ6kc_0hrFCe)
+[KCD Guatemala, Day 1 Students, Youtube Playlist](https://www.youtube.com/watch?v=Rs8-kAI1SRA&list=PL8hlF0_rzCDyjN9N7S-wrQZ6kc_0hrFCe) |
 [KCD Guatemala, Day 2 Professionals, Youtube Playlist](https://www.youtube.com/watch?v=K-OPoe1zJeM&list=PL8hlF0_rzCDz2gamF9AqFYQXfgShtKPtW)
 <!--more-->
 <br>
@@ -25,5 +25,3 @@ This was the Twitter account for the event:
 ### Tweet
 
 {{< twitter_simple 1457599086924861445 >}}
-
-<br>
