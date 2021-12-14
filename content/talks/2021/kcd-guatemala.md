@@ -9,7 +9,7 @@ tags = [
     "opensource"
 ]
 +++
-Kubernetes Community Days Guatemala was a two day event, one day for students and other for professionals, we had 402 attendees, 37 speaking sessions, and more than 15 students to organize the event. This event included speakers that speak Spanish and foreigh speakers from different countries, included India, China, UK, Costa Rica, El Salvador, Honduras, Spain, Guatemala and US. The event closed with Mila Verte concert. An indie music band from Guatemala.
+Kubernetes Community Days Guatemala was a two day event, one day for students and other for professionals, we had 402 attendees, 37 speaking sessions, and more than 15 students to organize the event. This event included speakers that speak Spanish and foreigh speakers from different countries, included India, China, UK, Costa Rica, El Salvador, Honduras, Spain, Guatemala and US. The event closed with Mila Verte concert. An indie music band from Guatemala. I was the main organizer.
 
 This was the Twitter account for the event:
 - https://twitter.com/kcdguatemala
