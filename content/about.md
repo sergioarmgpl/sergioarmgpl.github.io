@@ -6,6 +6,6 @@ aliases = ["about", "contact"]
 author = "Sergio Méndez"
 +++
 ### About me
-Sergio Méndez is a system engineer and professor of operating systems, software engineering, and AI at San Carlos of Guatemala. Sergio is also founder and cloud architect at Cloud Society, an online social network to join tech communities. He’s currently working doing DevOps at Yalo. About communities, he is involved in the CNCF Community and is promoting students into the CNCF Ecosystem with CNCF Students group, and host Meetups at Cloud Native Guatemala. Recently he held KCD Guatemala with his students. He was a speaker at KubeconEU 2020-2021, ServiceMeshConEU 2021 and also a Linkerd Ambassador. He is also writing about about Edge Computing and K3s with Packt publisher.
+Sergio Méndez is a systems engineer and professor of operating systems at San Carlos of Guatemala university. His work at the university is related to teaching and researching cloud native technologies with his students. He has experience working on DevOps, and MLOps using open source technologies at work. About open source communities, he is involved in the CNCF Community, promoting students into the CNCF Ecosystem and hosting a Cloud Native meetup in Guatemala.  He has been a speaker at several conferences such as KubeCon, WTFisCloudNative, and  Kubernetes Community Days. He is also a Linkerd Ambassador and he writing about about Edge Computing and K3s with Packt publisher.
 
 
