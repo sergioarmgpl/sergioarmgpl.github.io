@@ -124,6 +124,12 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/export?format=pdf"
 
   [[menu.main]]
+  name = "Books"
+  weight = 800
+  identifier = "books"
+  url = "/books/"
+
+  [[menu.main]]
   name = "About"
   weight = 800
   identifier = "about"
