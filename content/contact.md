@@ -1,6 +1,6 @@
 ---
 author: Sergio Méndez
-title: Contact & Meet
+title: Contact
 date: 2019-03-08
 description: Contact & Meet
 contact: false
