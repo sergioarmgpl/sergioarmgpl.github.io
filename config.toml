@@ -136,7 +136,7 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "/about/"
 
   [[menu.main]]
-  name = "Contact & Meet"
+  name = "Contact"
   weight = 900
   identifier = "contact"
   url = "/contact/"
