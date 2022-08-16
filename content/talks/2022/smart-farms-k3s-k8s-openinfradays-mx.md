@@ -5,7 +5,7 @@ date = "2022-08-15"
 description = ""
 tags = [
     "kubernetes",
-    "edgecomputing,
+    "edgecomputing",
     "opensource"
 ]
 +++
