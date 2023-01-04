@@ -28,9 +28,13 @@ These are the chapters covered in the book:
 - Chapter 15: Designing your own edge computing system
 
 
-The link to preorder the book:
-* https://www.amazon.com/Edge-computing-K3os-k3s-technologies-ebook/dp/B0B2PSZ1BK/
+Amazon Kindle and Paperback versions:
+* https://amzn.to/3Vx6pnt
 
-The book is under the last reviews before release it. The content of this link will be updated constantly.
+Or buy it on Packt for just $5:
+* https://packt.link/WLdT7
+
+
+The books was published in October 14th.
 
 Thanks for support my work, this book is the result of years of teaching and learning cloud native technologies, use this book to learn Kubernetes and share with your students. It has some interesting use case that you can use at work or to create cost effective solutions at the edge.
