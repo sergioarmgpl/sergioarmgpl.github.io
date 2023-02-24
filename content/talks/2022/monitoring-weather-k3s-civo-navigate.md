@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "Monitoring weather at the edge with K3s and Raspberry Pi devices, Civo Navigate, Tampa, FL"
-date = "2023-03-08"
+date = "2022-03-08"
 description = ""
 tags = [
     "kubernetes",
@@ -19,11 +19,5 @@ In this talk, Sergio Méndez will show us how K3s (a lightweight Kubernetes) is 
 ### Tweet
 
 {{< twitter_simple 1623370800396136448 >}}
-
-<br>
-
-### Civo Tweet
-
-{{< twitter_simple 1620474539242037249 >}}
 
 <br>
