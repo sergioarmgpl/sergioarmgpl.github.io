@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "Monitoring weather at the edge with K3s and Raspberry Pi devices, Civo Navigate, Tampa, FL"
-date = "2022-02-08"
+date = "2023-02-08"
 description = ""
 tags = [
     "kubernetes",
