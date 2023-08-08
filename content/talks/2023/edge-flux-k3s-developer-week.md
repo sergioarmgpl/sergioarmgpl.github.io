@@ -17,7 +17,3 @@ In the live demonstration, Sergio will show how to implement continuous deployme
 
 [Event Link](https://sched.co/1MjL0)
 <!--more-->
----
-### Video
-
-{{< youtube 3bZ5JVSAgLQ >}}

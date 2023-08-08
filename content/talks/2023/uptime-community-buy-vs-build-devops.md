@@ -17,6 +17,12 @@ Join us for a lively discussion on the age-old debate of "Buy vs. Build in DevOp
 [Video & Event](https://www.linkedin.com/events/buyvs-buildindevops7061803871416774657)
 <!--more-->
 ---
+### Video
+
+{{< youtube JjOpBKn59L0 >}}
+
+<br>
+
 ### Tweet
 
 {{< twitter_simple 1661104519277871105 >}}
