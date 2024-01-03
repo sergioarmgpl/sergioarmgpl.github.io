@@ -13,8 +13,7 @@ tags = [
 +++
 Explore the world of edge computing and computer vision with Sergio Méndez. Learn how K3s and neural network accelerators are revolutionizing data processing at the edge. Discover AI and machine learning applications and master computer vision challenges in this informative talk.
 
-[Event Link](https://www.civo.com/navigate)
-<!--more--> | [LinkedIn Link](https://www.linkedin.com/posts/sergioarmgpl_i-will-be-speaking-at-civo-navigate-this-activity-7099981668920225792-APsD)
+[Event Link](https://www.civo.com/navigate) | [LinkedIn Link](https://www.linkedin.com/posts/sergioarmgpl_i-will-be-speaking-at-civo-navigate-this-activity-7099981668920225792-APsD)
 <!--more-->
 ---
 ### Video
