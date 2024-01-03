@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Panel KCD's & CNCF Groups, KCD Guatemala, Guatemala"
+title = "Merging To Main #6: The Journey to Self-Service GitOps, Codefresh, Online"
 date = "2023-08-19"
 description = ""
 tags = [
