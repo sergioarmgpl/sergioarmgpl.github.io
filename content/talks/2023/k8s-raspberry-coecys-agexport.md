@@ -15,7 +15,5 @@ In this talk, Sergio Méndez is going to talk about Internal Developer Platforms
 
 During this talk, Sergio is going to show a small self-service implementation with ArgoCD to create Kubernetes applications using Github Actions forms to execute pipelines that create ArgoCD applications definitions that ArgoCD can use to provision applications in a Kubernetes cluster.
 
-[Instagram Link](https://www.instagram.com/p/C1nn7UUsHnN/)
-<!--more--> | 
-[Summit Link](https://www.linkedin.com/company/coecys/)
+[Instagram Link](https://www.instagram.com/p/C1nn7UUsHnN/)<!--more--> | [Summit Link](https://www.linkedin.com/company/coecys/) | [Slides](https://b.link/k3sCOECYS2023)
 <!--more-->
