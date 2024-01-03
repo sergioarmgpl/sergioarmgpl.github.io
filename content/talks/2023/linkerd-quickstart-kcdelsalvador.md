@@ -12,4 +12,4 @@ tags = [
 +++
 In this session show us how to start with service meshes using Linkerd.
 
-[Event Link](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/)<!--more--> | [Slides](https://b.link/LinkerdKCDSV)
+[Event Link](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/) | [Slides](https://b.link/LinkerdKCDSV)
