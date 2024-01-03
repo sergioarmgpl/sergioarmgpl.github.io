@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Monitoring weather at the edge with K3s and Raspberry Pi devices, Civo Navigate, Tampa, FL"
+title = "Cloud Native LATAM a year retrospective!, Cloud Native Latam, Online"
 date = "2023-12-12"
 description = ""
 tags = [
