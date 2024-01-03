@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Monitoring weather at the edge with K3s and Raspberry Pi devices, Civo Navigate, Tampa, FL"
+title = "Aplicaciones Foodtech corriendo en un edge Kubernetes, KCD Spain, Online"
 date = "2023-12-13"
 description = ""
 tags = [
@@ -14,3 +14,8 @@ In this talk Sergio Méndez will talk to us about how Agritech and Foodtech solu
 
 [Event Link](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2023/#agenda)
 <!--more-->
+<br>
+
+### Tweet
+
+{{< twitter_simple 1734999129128866004 >}}
