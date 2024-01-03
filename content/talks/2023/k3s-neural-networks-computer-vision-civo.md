@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
-title = "Quickstart with Internal Developer Platforms with ArgoCD and Github Actions, Cloud Native Amsterdam, Amsterdam"
-date = "2023-09-14"
+title = "Computer Vision at the Edge with K3s and Neural Network Accelerators, Navigate Europe, London, UK"
+date = "2023-09-05"
 description = ""
 tags = [
     "kubernetes",
