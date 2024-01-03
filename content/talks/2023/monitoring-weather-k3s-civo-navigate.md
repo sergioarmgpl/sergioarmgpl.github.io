@@ -15,6 +15,11 @@ In this talk, Sergio Méndez will show us how K3s (a lightweight Kubernetes) is 
 [Slides](https://b.link/K3sWeatherCivoNavigate2023)
 <!--more-->
 ---
+### Video
+
+{{< youtube gBKJx3tjb9o >}}
+
+<br>
 
 ### Tweet
 
@@ -25,5 +30,3 @@ In this talk, Sergio Méndez will show us how K3s (a lightweight Kubernetes) is 
 ### Civo Tweet
 
 {{< twitter_simple 1620474539242037249 >}}
-
-<br>
