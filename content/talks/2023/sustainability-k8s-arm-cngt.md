@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Building Smart Farms with Edge Computing Systems Using Kubernetes, Kubernetes on Edge Day - Kubecon, Chicago"
+title = "Sustainability Environments con ARM y Kubernetes, Cloud Native Guatemala, Online"
 date = "2023-11-06"
 description = ""
 tags = [
