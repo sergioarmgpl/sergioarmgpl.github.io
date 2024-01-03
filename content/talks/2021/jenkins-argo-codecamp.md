@@ -21,17 +21,3 @@ This Talk was about how to create a CI/CD Pipeline, using Jenkins for CI, and Ar
 ### Video
 
 {{< youtube R1heBMzHBUA >}}
-
-<br>
-
----
-
-## Tweet
-
-{{< twitter_simple 1355230062681927681 >}}
-
-<br>
-
-## Banners
-
-
