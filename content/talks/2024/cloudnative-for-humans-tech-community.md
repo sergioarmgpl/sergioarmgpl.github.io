@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "Intro: Ecosistema CNCF, Tech Community, Guatemala"
-date = "2023-01-27"
+date = "2024-01-27"
 description = ""
 tags = [
     "kubernetes",

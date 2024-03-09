@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "Intro: Ecosistema CNCF, Cloud Native Guatemala, Online"
-date = "2023-01-25"
+date = "2024-01-25"
 description = ""
 tags = [
     "kubernetes",

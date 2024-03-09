@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "Despliegues en Edge con Flux, Cloud Native Guatemala"
-date = "2023-02-27"
+date = "2024-02-27"
 description = ""
 tags = [
     "kubernetes",
