@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "Creating Containers with Containerd, CNCF Students. Guatemala"
-date = "2021-08-28"
+date = "2021-08-24"
 description = ""
 tags = [
     "kubernetes",
