@@ -100,10 +100,10 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "/talks/"
 
   [[menu.main]]
-  name = "Contributions"
+  name = "Community Contribs"
   weight = 500
-  identifier = "contributions"
-  url = "/contributions/"
+  identifier = "comm-contribs"
+  url = "/comm-contribs/"
 
   [[menu.main]]
   name = "Github"
