@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "A KCD lead by the next generation of cloud native engineers, Blog Post, cncf.io"
-date = "2024-02-24"
+date = "2024-02-02"
 description = ""
 tags = [
     "kubernetes",
