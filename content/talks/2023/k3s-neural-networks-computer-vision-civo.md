@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Computer Vision at the Edge with K3s and Neural Network Accelerators, Navigate Europe, London, UK"
+title = "Computer Vision at the Edge with K3s and Neural Network Accelerators, Civo Navigate Europe, London, UK"
 date = "2023-09-05"
 description = ""
 tags = [
