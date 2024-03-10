@@ -100,10 +100,10 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "/talks/"
 
   [[menu.main]]
-  name = "Community Contribs"
+  name = "Contributions"
   weight = 500
-  identifier = "comm-contribs"
-  url = "/comm-contribs/"
+  identifier = "contribs"
+  url = "/contribs/"
 
   [[menu.main]]
   name = "Github"
@@ -112,10 +112,10 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "https://github.com/sergioarmgpl"
 
   [[menu.main]]
-  name = "Youtube"
+  name = "My Content"
   weight = 650
-  identifier = "youtube"
-  url = "https://www.youtube.com/@sergiotechworld/"
+  identifier = "my-content"
+  url = "https://linktr.ee/sergioarmgpl"
   
 
   [[menu.main]]
