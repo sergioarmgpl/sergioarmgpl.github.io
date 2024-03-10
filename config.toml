@@ -112,6 +112,13 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "https://github.com/sergioarmgpl"
 
   [[menu.main]]
+  name = "Youtube"
+  weight = 650
+  identifier = "youtube"
+  url = "https://www.youtube.com/@sergiotechworld/"
+  
+
+  [[menu.main]]
   name = "Resume"
   weight = 700
   identifier = "resume"
