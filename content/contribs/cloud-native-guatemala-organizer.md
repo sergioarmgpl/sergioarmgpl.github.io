@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "Cloud Native Guatemala Weekly Working Sessions & Study Group with Organizers, Online"
-date = "2024-02-02"
+date = "2024-01-11"
 description = ""
 tags = [
     "kubernetes",
