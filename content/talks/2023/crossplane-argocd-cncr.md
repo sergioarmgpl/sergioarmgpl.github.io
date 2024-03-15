@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Quickstart with Linkerd, KCD El Salvador, El Salvador"
+title = "Administrando infraestructura en Kubernetes con ArgoCD y Crossplane, Cloud Native Costa Rica, Online"
 date = "2023-09-26"
 description = ""
 tags = [
