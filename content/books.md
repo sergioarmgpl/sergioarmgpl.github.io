@@ -31,10 +31,7 @@ These are the chapters covered in the book:
 Amazon Kindle and Paperback versions:
 * https://amzn.to/3Vx6pnt
 
-Or buy it on Packt for just $5:
+Or buy it on Packt website:
 * https://packt.link/WLdT7
-
-
-The books was published in October 14th.
 
 Thanks for support my work, this book is the result of years of teaching and learning cloud native technologies, use this book to learn Kubernetes and share with your students. It has some interesting use case that you can use at work or to create cost effective solutions at the edge.
