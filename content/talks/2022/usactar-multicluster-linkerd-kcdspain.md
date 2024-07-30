@@ -22,6 +22,6 @@ Students of USAC Guatemala university,  show how to use a Kubernetes multicluste
 <br>
 ### Tweet
 
-{{< twitter_simple 1589618983329742849 >}}
+{{< twitter user="KCDSpain" id="1589618983329742849" >}}
 
 <br>

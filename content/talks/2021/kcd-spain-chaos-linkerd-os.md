@@ -29,6 +29,6 @@ I spoke with my students in the KCD Spain with the topic Realtime COVID-19 Vacci
 
 ### Tweet
 
-{{< twitter_simple 1403045395853348870 >}}
+{{< twitter user="KCDSpain" id="1403045395853348870" >}}
 
 <br>

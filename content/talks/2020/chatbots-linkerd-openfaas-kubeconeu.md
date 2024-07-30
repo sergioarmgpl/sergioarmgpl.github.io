@@ -29,6 +29,6 @@ At the end of the session the speaker presented a short demo on how can implemen
 
 ### Tweet
 
-{{< twitter_simple 1296546668624711688 >}}
+{{< twitter user="sergioarmgpl" id="1296546668624711688" >}}
 
 <br>

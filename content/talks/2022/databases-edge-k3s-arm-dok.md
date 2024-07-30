@@ -24,6 +24,6 @@ In this session, Sergio Méndez is going to share his experience and history beh
 
 ### Tweet
 
-{{< twitter_simple 1596143217585569793 >}}
+{{< twitter user="birthmarkbart" id="1596143217585569793" >}}
 
 <br>

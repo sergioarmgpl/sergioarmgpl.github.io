@@ -29,8 +29,8 @@ At the end of the session the speaker presented a short demo on how can implemen
 
 ### Tweet
 
-{{< twitter_simple 1252722298852868096 >}}
+{{< twitter user="RevistaSG" id="1252722298852868096" >}}
 
-{{< twitter_simple 1252620536166916096 >}}
+{{< twitter user="RevistaSG" id="1252620536166916096" >}}
 
 <br>

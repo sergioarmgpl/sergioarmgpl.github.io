@@ -28,6 +28,6 @@ We talked with Jossie Castrillo at the Chaos Mesh April Community Meeting about 
 
 ### Tweet
 
-{{< twitter_simple 1385657327978795008 >}}
+{{< twitter user="chaos_mesh" id="1385657327978795008" >}}
 
 <br>

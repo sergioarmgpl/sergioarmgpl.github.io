@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edge on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/edge/</link>
+    <description>Recent content in Edge on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/edge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edge Computing con Kubernetes y K3s, COECYS, Guatemala</title>
+      <link>http://localhost:1313/talks/2021/edge-computing-k3s-coecys/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/edge-computing-k3s-coecys/</guid>
+      
+        <description>&lt;p&gt;This talk was presented at COECYS 2021, an online students event from USAC university.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://coecys.org.gt/#timeline&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/EdgeK3sCOECYS2021&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

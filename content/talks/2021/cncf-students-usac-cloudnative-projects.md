@@ -26,6 +26,6 @@ I hosted and speak in a live streaming for CNCF Students in Spanish, my students
 
 ### Tweet
 
-{{< twitter_simple 1430186887684186112 >}}
+{{< twitter user="CNCFStudents" id="1430186887684186112" >}}
 
 <br>

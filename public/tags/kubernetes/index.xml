@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The role of CNCF Ambassadors, Twitter, X, Online</title>
+      <link>http://localhost:1313/talks/2024/x-the-role-cncf-ambassador/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/x-the-role-cncf-ambassador/</guid>
+      
+        <description>&lt;p&gt;I shared in this X Space my own experience to become a CNCF Ambassador.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/i/spaces/1rmGPMzBLqnJN&#34;&gt;X Space&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/AakanshaPriya_/status/1795889155911627165&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ecosistema Cloud Native, Cloud Native Guatemala, UMG University, Cobán, Guatemala</title>
+      <link>http://localhost:1313/talks/2024/cn-day-coban-cncf-ecosystem/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/cn-day-coban-cncf-ecosystem/</guid>
+      
+        <description>&lt;p&gt;I spoke about the CNCF ecosystem, but this time for an university outside the city in Cobán Alta Verapaz.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-native-guatemala-presents-cloud-native-day-coban/&#34;&gt;Event&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:share:7197418709991256064/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Corre WebAssemply en edge usando WasmEdge, KCD Argentina, Argentina</title>
+      <link>http://localhost:1313/talks/2024/kcd-argentina-wasmedge/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/kcd-argentina-wasmedge/</guid>
+      
+        <description>I spoke about how to run WebAssembly on the edge using WasmEdge.</description>
+      
+    </item>
+    
+    <item>
+      <title>Preparando Submarinos en el Edge con Kubernetes, KCD Argentina, Online</title>
+      <link>http://localhost:1313/talks/2024/kcd-argentina-submarino/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/kcd-argentina-submarino/</guid>
+      
+        <description>I spoke about how to automate the process of create an argentinian hot drink called submarine, using edge computing and cloud native technologies like Kubernetes.</description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Native for Humans, KCD Islamabad, Pakistan Islambad, Online</title>
+      <link>http://localhost:1313/talks/2024/humans-cn-islamabad/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/humans-cn-islamabad/</guid>
+      
+        <description>I spoke about basic concepts around Kubernetes, the cloud native ecosystem and different groups were you can contribute.</description>
+      
+    </item>
+    
+    <item>
+      <title>Earth Day!, New York Kubernetes Meetup, Online</title>
+      <link>http://localhost:1313/talks/2024/earth-day-cn-new-york/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/earth-day-cn-new-york/</guid>
+      
+        <description>&lt;p&gt;I particiapted in the Earth Day themed event from New York Kubernetes Meetup, sharing about the CNCF Environmental Sustainability Technical Advisory Group (TAG ENV).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-new-york-kubernetes-meetup-presents-earth-day/&#34;&gt;Event&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Grafana and data visualization dashboards, USAC, Guatemala, Online</title>
+      <link>http://localhost:1313/talks/2024/arduino-day-usac/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/arduino-day-usac/</guid>
+      
+        <description>&lt;p&gt;I spoke at Arduino Day USAC about Creating edge computing solutions using hardware and Kubernetes. This event was hosted at USAC university.
+&lt;a href=&#34;https://www.facebook.com/photo/?fbid=750359143745460&#34;&gt;Event&lt;/a&gt; | &lt;a href=&#34;https://www.instagram.com/reel/C6FvK3KszMq&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://www.instagram.com/p/C6Fu1geMKb7&#34;&gt;Photo&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Grafana and data visualization dashboards, USAC, Guatemala, Online</title>
+      <link>http://localhost:1313/talks/2024/grafana-usac/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/grafana-usac/</guid>
+      
+        <description>I spoke about the basic of how to use Grafana to visualize data in real-time, this session was shared to the Operating Systems course in USAC university.</description>
+      
+    </item>
+    
+    <item>
+      <title>Sustainable Edge systems and food tech using cloud native technologies, Veeam Kubernetes Korner, Online</title>
+      <link>http://localhost:1313/talks/2024/foodtech-env-sus-k3s-cloud-native-veeam/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/foodtech-env-sus-k3s-cloud-native-veeam/</guid>
+      
+        <description>In this show, Sergio and Geoffrey will talk about Sergio&amp;rsquo;s latest book, &amp;ldquo;Edge Computing Systems with Kubernetes,&amp;rdquo; outlining the fundamental components necessary for edge computing and sharing how these systems contribute to environmental sustainability.</description>
+      
+    </item>
+    
+    <item>
+      <title>Kube Dev Day, Cloud Native Guatemala, Agexport, Guatemala</title>
+      <link>http://localhost:1313/talks/2024/kube-dev-day-cngt/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/kube-dev-day-cngt/</guid>
+      
+        <description>&lt;p&gt;Hosted the event and presented speakers in the event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/e/m2nqvr/&#34;&gt;Event&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/cloud-native-guatemala_cloudnative-kubernetes-kcdguatemala-activity-7189670946201378816-Ofda?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Women in Cloud Native GT, Cloud Native Guatemala, Agexport, Guatemala</title>
+      <link>http://localhost:1313/talks/2024/woman-in-cloud-native-agexport/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/woman-in-cloud-native-agexport/</guid>
+      
+        <description>&lt;p&gt;I hosted the meetup dedicted to females, they shared about how they are using Kubernetes. I also found and ex professor and student in the event, it was awesome to see 3 generations in one session.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/e/mctbm8/&#34;&gt;Event&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:7175506764572827649&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>TAG Env sustainability, Automation to detect required website translations, Github, cncf.io, (IN PROGRESS)</title>
+      <link>http://localhost:1313/contribs/tag-env-sustainability-autodetect-website-translations/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contribs/tag-env-sustainability-autodetect-website-translations/</guid>
+      
+        <description>&lt;p&gt;I participated leading this contribution and also adding my translation, to finally translate with all the Cloud Native Guatemala organizers the TAG Env Sustainability Website into Spanish.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cncf/tag-env-sustainability/issues/325&#34;&gt;Issue&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Despliegues en Edge con Flux, Cloud Native Guatemala</title>
+      <link>http://localhost:1313/talks/2024/edge-deployments-flux-cloudnative-gt/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/edge-deployments-flux-cloudnative-gt/</guid>
+      
+        <description>&lt;p&gt;I spoke at Cloud Guatemala with the topic &amp;ldquo;Edge deployments with Flux&amp;rdquo; it was about how to take advantage of Flux at the edge to update devices. I also hosted the event with other organizers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/e/m6bh5c&#34;&gt;Event&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/cloud-native-guatemala_cloudnative-kubernetes-kcdguatemala-activity-7166582840346808320-v4u6?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;LinkedIn Post&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/cloudnativegt/status/1762664467429540068&#34;&gt;Photo 1&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cooking a Sustainable Feijoada with Edge Cloud Native Technologies, KCD Sao Paulo, Brasil</title>
+      <link>http://localhost:1313/talks/2024/edge-feijoada-kcd-sao-paulo-brasil/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/edge-feijoada-kcd-sao-paulo-brasil/</guid>
+      
+        <description>&lt;p&gt;I spoke at Cloud Guatemala with the topic &amp;ldquo;Edge deployments with Flux&amp;rdquo; it was about how to take advantage of Flux at the edge to update devices. I also hosted the event with other organizers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/&#34;&gt;Event&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/kcdsaopaulo_speakers-on-conhe%C3%A7a-o-palestrantesergio-activity-7160593917476847616-OvGJ?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;LinkedIn Post&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/sergioarmgpl_kubernetes-cloudnative-activity-7167363704685084672-cy-x?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;Photos&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>TAG Env sustainability, Website translation into Spanish language, Github, cncf.io</title>
+      <link>http://localhost:1313/contribs/tag-env-sustainability-cngt-contribution/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contribs/tag-env-sustainability-cngt-contribution/</guid>
+      
+        <description>&lt;p&gt;I participated leading this contribution and also adding my translation, to finally translate with all the Cloud Native Guatemala organizers the TAG Env Sustainability Website into Spanish.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tag-env-sustainability.cncf.io/es/&#34;&gt;TAG Env Sustainability Website ES Link&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/cncf-tag-environmental-sustainability_tag-environmental-sustainability-activity-7171505054883921921-YrTm?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;LinkedIn Post&lt;/a&gt; | &lt;a href=&#34;https://github.com/cncf/tag-env-sustainability/pull/340&#34;&gt;Pull Request&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>A KCD lead by the next generation of cloud native engineers, Blog Post, cncf.io</title>
+      <link>http://localhost:1313/contribs/kcd-students-next-generation-cncf/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contribs/kcd-students-next-generation-cncf/</guid>
+      
+        <description>&lt;p&gt;We want to share this article with you on how San Carlos University students, technology enthusiasts and collaborators from the countryside had led Cloud Native events in Guatemala, showing how they are the next generation of Cloud Native engineers in our country. I participating leading this blog post for CNCF with my students, and also organizing the blog post about the content.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cncf.io/blog/2024/02/02/a-kcd-lead-by-the-next-generation-of-cloud-native-engineers/&#34;&gt;CNCF Link&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/cloud-native-guatemala_cloudnative-kubernetes-kcdguatemala-activity-7161154093682507776-708R?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;LinkedIn Post&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Native para Humanos, Tech Community, Guatemala</title>
+      <link>http://localhost:1313/talks/2024/cloudnative-for-humans-tech-community/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/cloudnative-for-humans-tech-community/</guid>
+      
+        <description>&lt;p&gt;I participated in the Tech Community Days, giving a quick introduction to CNCF and Kubernetes using drawings. I also covered topics as Service Meshes, certifications, env sustainability and also how to start contributing to CNCF projects.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/posts/techcommunitygt_cncf-guatemala-activity-7157574195328008192-ntAV/&#34;&gt;Video 1&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/techcommunitygt_faltan-solo-3-d%C3%ADas-para-el-tech-community-activity-7155997706912432128-M6k-?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;Banner&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/techcommunitygt_dos-grandes-profesionales-ahora-l%C3%ADderes-activity-7157588041484656641-DqYn?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;Photo 1&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/techcommunitygt_activity-7157574520826941440-TkUl?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;Photo 2&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Intro: Ecosistema CNCF, Cloud Native Guatemala, Online</title>
+      <link>http://localhost:1313/talks/2024/intro-cncf-host-cloudnative-gt/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/intro-cncf-host-cloudnative-gt/</guid>
+      
+        <description>&lt;p&gt;I was host in the speaking session &amp;ldquo;Intro: Ecosistema CNCF&amp;rdquo;, I introduced the speaker and helped reading the questions in the session. Also in charge of the streaming. The topic was an introduction about CNCF.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/e/mb4anr/&#34;&gt;Event&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Native Guatemala Weekly Working Sessions &amp; Study Group with Organizers, Online</title>
+      <link>http://localhost:1313/contribs/cloud-native-guatemala-organizer/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contribs/cloud-native-guatemala-organizer/</guid>
+      
+        <description>&lt;p&gt;We want to share this article with you on how San Carlos University students, technology enthusiasts and collaborators from the countryside had led Cloud Native events in Guatemala, showing how they are the next generation of Cloud Native engineers in our country. I participating leading this blog post for CNCF with my students, and also organizing the blog post about the content.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://calendar.google.com/calendar/u/4/r?cid=OWE2YzE4ZDc5ZjQwMGQ4NzQxMzY0YWI1M2I0NGQxN2VhMTYzNGIyYjlhOWQyOWY4ZjYzMDY2NzhjN2RjZjU4ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&#34;&gt;Working &amp;amp; Study Group Sessions Calendar&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Aplicaciones Foodtech corriendo en un edge Kubernetes, KCD Spain, Online</title>
+      <link>http://localhost:1313/talks/2023/foodtech-applications-kcdspain/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/foodtech-applications-kcdspain/</guid>
+      
+        <description>&lt;p&gt;In this talk Sergio Méndez will talk to us about how Agritech and Foodtech solutions running on the edge can help automate applications on farms that can help optimize processes in crops, fertilizer, or food generation, etc., and how these processes can generate an environment sustainable where the impact on the environment is reduced. Sergio will also explain how Agritech and Foodtech can revolutionize food production in Latin America, creating low-cost solutions, using K3s, a light Kubernetes and other cloud native technologies, accompanied by ARM hardware devices such as Raspberry Pi, for home projects. or productive use. At the end he will explain how Agritech and Foodtech are related to the TAG Environmental Sustainability, promoted in CNCF to have technological solutions that reduce the impact on the environment.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2023/#agenda&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://docs.google.com/presentation/d/1mm8huhQh8CVzK79XQNLe8Yvif6UW7lUs/edit?usp=sharing&amp;amp;ouid=117971317963904890005&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Native LATAM a year retrospective!, Cloud Native Latam, Online</title>
+      <link>http://localhost:1313/talks/2023/cnlatam-retrospective-cnlatam/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/cnlatam-retrospective-cnlatam/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez participated talking about the events that Cloud Native Guatemala Chapter hosted across the year, including a KCD.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/e/mggtfc/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Building Smart Farms with Edge Computing Systems Using Kubernetes, Kubernetes on Edge Day - Kubecon, Chicago</title>
+      <link>http://localhost:1313/talks/2023/smart-farms-k8s-edge-day-kubecon/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/smart-farms-k8s-edge-day-kubecon/</guid>
+      
+        <description>&lt;p&gt;In this talk Sergio presents different use case scenarios where people can use K3s(a lightweight Kubernetes) to implement an edge computing system that measures temperature and humidity sensors to build a smart farm. Smart farms have a lot of use cases in Latin American countries where agriculture is an important way for income. During the talk Sergio will explain how to design a basic smart farm system using the different edge computing layers to design this system. At the end of this talk Sergio is going to show a basic smart farm implementation using K3s and Raspberry Pi devices, temperature and humidity sensors, MySQL and Grafana, showing in real-time how to monitor plants in gardens or farms.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/1Rj2y&#34;&gt;Event Schedule Link&lt;/a&gt; |  &lt;a href=&#34;https://docs.google.com/presentation/d/1eMVnZPIXpt2XCiPokV45bIH5jb-HHC9j6URAIMgA-kU/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt; | &lt;a href=&#34;https://github.com/sergioarmgpl/smart-farms-k8s-edge-day-2023&#34;&gt;Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sustainability Environments con ARM y Kubernetes, Cloud Native Guatemala, Online</title>
+      <link>http://localhost:1313/talks/2023/sustainability-k8s-arm-cngt/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/sustainability-k8s-arm-cngt/</guid>
+      
+        <description>&lt;p&gt;In this talk we will present the basic concepts of cloud native and how these technologies can impact better use of computing resources used in the cloud..&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-native-guatemala-presents-sustainability-week-green-kubernetes-cloud-native-guatemala/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>K8s en la Universidad - Parte 2, Cloud Native Guatemala, Online</title>
+      <link>http://localhost:1313/talks/2023/k8s-universidad-usac-p2/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/k8s-universidad-usac-p2/</guid>
+      
+        <description>&lt;p&gt;In this session we will be sharing with the students of the San Carlos University of Guatemala, to learn how to use Kubernetes, after the previous session we had in their class meetings. It is open to external participants to students who also want to learn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-native-guatemala-presents-k8s-en-la-universidad-parte-2/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>K8s en la Universidad - Parte 1, Cloud Native Guatemala, Online</title>
+      <link>http://localhost:1313/talks/2023/k8s-universidad-usac-p1/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/k8s-universidad-usac-p1/</guid>
+      
+        <description>&lt;p&gt;In this session we will be sharing with the students of the San Carlos University of Guatemala, to learn how to use Kubernetes, after the previous session we had in their class meetings. It is open to external participants to students who also want to learn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-native-guatemala-presents-k8s-en-la-universidad-parte-1/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Quickstart with Linkerd, KCD El Salvador, El Salvador</title>
+      <link>http://localhost:1313/talks/2023/linkerd-quickstart-kcdelsalvador/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/linkerd-quickstart-kcdelsalvador/</guid>
+      
+        <description>In this session show us how to start with service meshes using Linkerd.</description>
+      
+    </item>
+    
+    <item>
+      <title>Usactar soccer world cup real time system con Linkerd y Kubernetes, KCD El Salvador, El Salvador</title>
+      <link>http://localhost:1313/talks/2023/usactar-linkerd-k8s-kcdelsalvador/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/usactar-linkerd-k8s-kcdelsalvador/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez will demonstrate how students can learn about Service Meshes and cloud native technologies using Linkerd and Kubernetes at university. During this session, Sergio will show the USAC university project uses Linkerd for observability and multi-cluster interconnection. This real-time system called Usactar simulates comments and analytics of soccer matches based on the Qatar soccer cup. During the demo part, Sergio will show how the system works, how he observes Kafka message queues with gRPC interconnection and how he uses Linkerd for multi-cloud configuration to distribute components and data across different cloud providers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Administrando infraestructura en Kubernetes con ArgoCD y Crossplane, Cloud Native Costa Rica, Online</title>
+      <link>http://localhost:1313/talks/2023/crossplane-argocd-cncr/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/crossplane-argocd-cncr/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez will show us how to manage infrastructure in Kubernetes using ArgoCD and Crossplane. He will explain the basics of these tools and how they integrate with Kubernetes. Attendees will learn how to install and configure these tools in their own environment and how to use their features to provision cloud infrastructure for different cloud providers. At the end, Sergio will show a small implementation of how to provision infrastructure in Google Cloud using ArgoCD and Crossplane.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-native-costa-rica-presents-administrando-infraestructura-en-kubernetes-con-argocd-y-crossplane/&#34;&gt;Event Link1&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ruta al KCNA - Horas de Oficina, Online</title>
+      <link>http://localhost:1313/talks/2023/ruta-kcna/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/ruta-kcna/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez help to learn about Kubernetes in order to win the KCNA certification.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-native-latin-america-presents-ruta-al-kcna-horas-de-oficina-2023-09-26/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Usando Kubernetes y Raspberry Pi para crear proyectos de hardware, COECYS student summit, Guatemala</title>
+      <link>http://localhost:1313/talks/2023/k8s-raspberry-coecys-agexport/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/k8s-raspberry-coecys-agexport/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez is going to talk about Internal Developer Platforms (IDP), and all the concepts around IDPs and platform engineering, and how companies can start building IDPs using ArgoCD and Github Actions.&lt;/p&gt;
+&lt;p&gt;During this talk, Sergio is going to show a small self-service implementation with ArgoCD to create Kubernetes applications using Github Actions forms to execute pipelines that create ArgoCD applications definitions that ArgoCD can use to provision applications in a Kubernetes cluster.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/p/C1nn7UUsHnN/&#34;&gt;Instagram Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Quickstart with Internal Developer Platforms with ArgoCD and Github Actions, Cloud Native Amsterdam, Amsterdam</title>
+      <link>http://localhost:1313/talks/2023/quickstart-gitops-argocd-cnamsterdam/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/quickstart-gitops-argocd-cnamsterdam/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez is going to talk about Internal Developer Platforms (IDP), and all the concepts around IDPs and platform engineering, and how companies can start building IDPs using ArgoCD and Github Actions.&lt;/p&gt;
+&lt;p&gt;During this talk, Sergio is going to show a small self-service implementation with ArgoCD to create Kubernetes applications using Github Actions forms to execute pipelines that create ArgoCD applications definitions that ArgoCD can use to provision applications in a Kubernetes cluster.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-amsterdam-presents-4-cloud-nativekubernetes-meetup-of-2023-hosted-by-mia-platform/&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/sergioarmgpl_what-an-amazing-event-last-thursday-in-activity-7109545052762169344-lrJr/&#34;&gt;LinkedIn Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Computer Vision at the Edge with K3s and Neural Network Accelerators, Civo Navigate Europe, London, UK</title>
+      <link>http://localhost:1313/talks/2023/k3s-neural-networks-computer-vision-civo/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/k3s-neural-networks-computer-vision-civo/</guid>
+      
+        <description>&lt;p&gt;Explore the world of edge computing and computer vision with Sergio Méndez. Learn how K3s and neural network accelerators are revolutionizing data processing at the edge. Discover AI and machine learning applications and master computer vision challenges in this informative talk.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.civo.com/navigate&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/sergioarmgpl_i-will-be-speaking-at-civo-navigate-this-activity-7099981668920225792-APsD&#34;&gt;LinkedIn Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Merging To Main #6: The Journey to Self-Service GitOps, Codefresh, Online</title>
+      <link>http://localhost:1313/talks/2023/self-service-argo-gitops-codefresh/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/self-service-argo-gitops-codefresh/</guid>
+      
+        <description>&lt;p&gt;Can you reduce your time spent enabling development teams without risking everything?&lt;/p&gt;
+&lt;p&gt;Sergio Méndez, DevOps leader at Yalo and CNCF Ambassador joins this enlightening episode of Merging to Main and covers the trials and tribulations of creating the holy grail of DevOps, self-service GitOps.&lt;/p&gt;
+&lt;p&gt;Learn:
+How do you structure teams responsibilities
+Automate your permissions
+Can you do self-service at the edge?
+Where does an IDP or something like Backstage fit in?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://codefresh.io/events/merging-to-main-6-the-journey-to-self-service-gitops/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Panel KCD&#39;s &amp; CNCF Groups, KCD Guatemala, Guatemala</title>
+      <link>http://localhost:1313/talks/2023/panel-kcd-cncf-groups-kcdguatemala/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/panel-kcd-cncf-groups-kcdguatemala/</guid>
+      
+        <description>&lt;p&gt;In this panel, Sergio Méndez, and other KCD and Cloud Native groups organizers, discuss the importance to participate and host this events for the CNCF ecosystem.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-kcd-guatemala-presents-kcd-guatemala-profesionales-2023/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Panel: Escogiendo una tecnología sin ser fan - Sergio Méndez, Diego Figueroa, Victor Marroquín Yalo, KCD Guatemala, Guatemala</title>
+      <link>http://localhost:1313/talks/2023/choose-tech-nofan-kcdguatemala/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/choose-tech-nofan-kcdguatemala/</guid>
+      
+        <description>&lt;p&gt;In this panel, Sergio Méndez, Diego Figueroa and Victor Marroquín from Yalo discuss how to choose a technology without being a fan. Yalo is a company that is using Kubernetes, and the panel talks about different decisions happened at Yalo to choose cloud native technologies to solve problems.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-kcd-guatemala-presents-kcd-guatemala-profesionales-2023/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Usactar Soccer World Cup Real-Time System with Linkerd and Kubernetes, Cloud Native Now, virtual</title>
+      <link>http://localhost:1313/talks/2023/usactar-real-time-linkerd-k8s-cloud-native-now/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/usactar-real-time-linkerd-k8s-cloud-native-now/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez demonstrates how students can learn about service meshes and cloud-native technologies using Linkerd in a university setting.
+During the session, Sergio showcases a university project that used Linkerd for observability and multi-cluster interconnection. The real-time system simulates the comments and analytics for soccer matches in an event called Usactar based on the last World Cup in Qatar.
+During the demonstration, Sergio will show how this system works, how to observe message queues in Kafka and how Linkerd uses a multi-cloud configuration to distribute components and data around different cloud providers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techstrongevents.com/cloud-native-now-2023/speakers?page=1&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Deployment Strategies on the Edge with Flux and K3s, DeveloperWeek Latin America 2023</title>
+      <link>http://localhost:1313/talks/2023/edge-flux-k3s-developer-week/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/edge-flux-k3s-developer-week/</guid>
+      
+        <description>&lt;p&gt;In this talk Sergio presents different continuous deployment strategies that can be used to deploy applications on the edge using containers. Specifically the ones that use devices with ARM processors that have a low power consumption. The talk also shows how Flux and K3s (A lightweight Kubernetes) can be used to implement continuous deployment for different needs on the edge context and the challenges of it.
+In the live demonstration, Sergio will show how to implement continuous deployment for a simple edge application that changes the color of a LED running on a Raspberry Pi device using K3s.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/1MjL0&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Descubriendo el poder de la nube, panel, KCD Colombia, Colombia, Medellín</title>
+      <link>http://localhost:1313/talks/2023/poder-de-la-nube-kcdcolombia/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/poder-de-la-nube-kcdcolombia/</guid>
+      
+        <description>&lt;p&gt;In this panel, Sergio Méndez shared his experience at Yalo with different speakers from local companies in Colombia. This panel was about best practices to get advantage of cloud native technologies and Kubernetes, and how this technologies can help companies to be success, while watching the lessons learned from the speakers in their companies.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/kcd-colombia-2023-tickets-548105236517&#34;&gt;Event Link 1&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/kcd-colombia_kcdcolombia2023-cncf-kcdguatemala-activity-7071183835190685696--Gho/&#34;&gt;Event Link 2&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Internal developer platforms con ArgoCD y GitHub actions, KCD Colombia, Colombia, Medellín</title>
+      <link>http://localhost:1313/talks/2023/idps-argocd-actions-kcdcolombia/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/idps-argocd-actions-kcdcolombia/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez explains how to create a self-service implementation to provision Kubernetes deployments by using ArgoCD and Github Actions. During this talk, Sergio presented how to use this tools to implement a basic Internal Developer Portal using ArgoCD and Github Actions with a short demonstration.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.eventbrite.com/e/kcd-colombia-2023-tickets-548105236517&#34;&gt;Event Link 1&lt;/a&gt;
+&lt;a href=&#34;https://www.linkedin.com/posts/kcd-colombia_kcdcolombia2023-cncf-kcdguatemala-activity-7071183835190685696--Gho/&#34;&gt;Event Link 2&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Buy vs. Build in DevOps, Uptime community,virtual</title>
+      <link>http://localhost:1313/talks/2023/uptime-community-buy-vs-build-devops/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/uptime-community-buy-vs-build-devops/</guid>
+      
+        <description>&lt;p&gt;Join us for a lively discussion on the age-old debate of &amp;ldquo;Buy vs. Build in DevOps&amp;rdquo; with five industry experts. Our panelists will explore the benefits and drawbacks of purchasing pre-built software versus building custom solutions, and share their insights on when each approach is the best choice. Don&amp;rsquo;t miss out on this insightful online event!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/events/buyvs-buildindevops7061803871416774657&#34;&gt;Video &amp;amp; Event&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>#140 Encontramos tu lugar en el mundo tech ,FHCN, Colombia, virtual</title>
+      <link>http://localhost:1313/talks/2023/fhcn-communities-latam/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/fhcn-communities-latam/</guid>
+      
+        <description>&lt;p&gt;In this panel, Sergio Méndez shared about how the different communities in Latin America are growing and how Kubernetes is starting to be adopted in Latin american countries.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:7065415822353031168/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Farms con Kubernetes y LoRa, UVG University, Guatemala</title>
+      <link>http://localhost:1313/talks/2023/smart-farms-arduino-day/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/smart-farms-arduino-day/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez will showed to young univesity students how to use K3s and edge computing to build a smart farm system. This in person event was held at UVG university in Guatemala.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/posts/tecsify_el-arduino-day-guatemala-uvg-fue-todo-un-activity-7064309566313766912-6_54/&#34;&gt;Photos&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/tecsify_el-arduino-day-est%C3%A1-de-vuelta-esta-vez-activity-7062875897040629760-q3Pw/&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://b.link/ArduinoGTK8sLoRa2023&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Monitoring weather at the edge with K3s and Raspberry Pi devices, Civo Navigate, Tampa, FL</title>
+      <link>http://localhost:1313/talks/2023/monitoring-weather-k3s-civo-navigate/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/monitoring-weather-k3s-civo-navigate/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez will show us how K3s (a lightweight Kubernetes) is used to create a small edge computing system that monitors temperature and humidity in real-time at the Civo Navigate event. During this talk, Sergio will show the different parts of this small edge computing system, including a short explanation of how MySQL, Grafana, and K3s are used and interact with each other to show this information in real-time, all this running on a small K3s cluster using Raspberry Pi devices.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.civo.com/navigate/schedule&#34;&gt;Event Schedule Link&lt;/a&gt; | &lt;a href=&#34;https://b.link/K3sWeatherCivoNavigate2023&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Edge Computing with Kubernetes | Episode 63, Cloud Native Podcast</title>
+      <link>http://localhost:1313/talks/2022/cloudnative-fm-edge-book-review/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/cloudnative-fm-edge-book-review/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez is going to share his experience and history behind why and what motivated him to write his book “Edge Computing with Kubernetes” by Packt publisher. After this introduction, he is going to give a walkthrough of the different chapters of the book explaining in a practical way how to use the content of each chapter to solve your day-to-day edge computing system problems and how to run your edge systems on ARM devices with the lightweight Kubernetes K3s.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://b.link/EdgeK8sBook&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Databases at the edge with K3s and ARM devices, Data on Kubernetes (DoK)</title>
+      <link>http://localhost:1313/talks/2022/databases-edge-k3s-arm-dok/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/databases-edge-k3s-arm-dok/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez is going to share his experience and history behind why and what motivated him to write his book “Edge Computing with Kubernetes” by Packt publisher. After this introduction, he is going to give a walkthrough of the different chapters of the book explaining in a practical way how to use the content of each chapter to solve your day-to-day edge computing system problems and how to run your edge systems on ARM devices with the lightweight Kubernetes K3s.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/data-on-kubernetes-community/events/289963706/&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/sergioarmgpl/status/1597765873242034176&#34;&gt;Photo&lt;/a&gt; | &lt;a href=&#34;https://docs.google.com/presentation/d/1Np2liC2pTKINTbYDKtGaR2-6UJO3CgVI/edit?usp=sharing&amp;amp;ouid=117971317963904890005&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Tracking DevOps Data in Event Driven CD Pipelines, Brad McCoy, Continuos Delivery Summit, Detroit</title>
+      <link>http://localhost:1313/talks/2022/tracking-devops-cdsummit/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/tracking-devops-cdsummit/</guid>
+      
+        <description>&lt;p&gt;I just introduced the attendees to the theory behind Ortelius.&lt;/p&gt;
+&lt;p&gt;Description: From early on the Ortelius team had seen value in events and how they can solve many of our problems that we face in our DevOps processes, particularly around Interoperability.&lt;/p&gt;
+&lt;p&gt;As they embarked on their journey implementing GitOps, they then realized that there were a lot of moving parts and tools in their CI/CD process so decided to adopt Keptn as the control plane to handle events. In this session we will explore how Ortelius, Keptn and GitOps forms a new kind of pipeline that incorporates a central catalog for tracking the DevOps data in an event driven CD Pipeline.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/1BPCW&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://www.flickr.com/photos/143247548@N03/52466885486/in/album-72177720303164393&#34;&gt;Photo&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Soccer World Cup with Multi Cluster with Kubernetes and Linkerd, USAC University, Alex Méndez, Jessica Botón, Christofer Borrayo, Yásmin Monterroso,Sergio Méndez, KCDSpain, online</title>
+      <link>http://localhost:1313/talks/2022/usactar-multicluster-linkerd-kcdspain/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/usactar-multicluster-linkerd-kcdspain/</guid>
+      
+        <description>&lt;p&gt;Students of USAC Guatemala university,  show how to use a Kubernetes multicluster configuration using Linkerd, gRPC, Kafka &amp;amp; React, to show stats in real-time about what the people comment of each soccer match.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2022/#agenda&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/KCDSpain/status/1592586484137316353/photo/1&#34;&gt;Photo&lt;/a&gt; | &lt;a href=&#34;https://b.link/KCDSpainUSACTAR&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Serverless Functions at the Edge with Knative and K3s - Sergio Méndez, USAC University, KnativeConNA, Detroit</title>
+      <link>http://localhost:1313/talks/2022/knative-k3s-knativecon/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/knative-k3s-knativecon/</guid>
+      
+        <description>&lt;p&gt;Running code at edge could be challenging when running your programs using low power consumption devices. These devices often use ARM processors that match the low power consumption edge environments and have limited CPU and RAM to run your code. This talk is going to cover the basics of running serverless functions at the edge using Knative deployed at the edge in a light weight Kubernetes K3s. The demo of this session will show how to install Knative at the edge in a single node K3s cluster in a Raspberry Pi device as our edge device using an ARM processor. It also explained how this configuration can run your code in an efficient way managing endpoints for your code and concurrency using the internal envoy based proxy Contour that runs at the edge. At the end of the session we explain the pros and cons of running serverless functions at the edge and the challenges for development when using ARM devices, and how Knative with K3s can solve common edge computing use cases like smart farms, smart cities, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/1AGbN&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/ClowderSpace/status/1584603806372753410&#34;&gt;Photo&lt;/a&gt; | &lt;a href=&#34;https://b.link/KnativeConNAK3s2022&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Students non code contributions for Linkerd and other CNCF projects, Sergio &amp; Flynn, Representing CNCF,CCOSS, México</title>
+      <link>http://localhost:1313/talks/2022/non-code-students-contributions-ccoss/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/non-code-students-contributions-ccoss/</guid>
+      
+        <description>&lt;p&gt;In this talk we presented with Flynn from Buoyant and Linkerd community how students can contribute with and without code to the CNCF projects, in special how students are contributing to Linkerd.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ccoss.org/sessions/2022/linkerd-guatemala&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/i/broadcasts/1lDGLnEerAkxm&#34;&gt;Video&lt;/a&gt; |
+&lt;a href=&#34;https://docs.google.com/presentation/d/1CGXHrIFf3jaziecWWlIEbidjxGArn3Wjeg6ZBHqozug/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Driving innovation with Keptn and Interoperability, Brad McCoy, Sergio Mendez, Keptn Community Day, in person, Detroit</title>
+      <link>http://localhost:1313/talks/2022/keptn-community-day/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/keptn-community-day/</guid>
+      
+        <description>&lt;p&gt;In this talk Sergio explained the theory around Keptn and Brad show a practical demonstration about how to use Keptn with Testkube.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kccncna2022.sched.com/event/1Atcb/keptn-community-day&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/grabnerandi/status/1584950799511465984&#34;&gt;Photo&lt;/a&gt; |
+&lt;a href=&#34;https://docs.google.com/presentation/d/1Np2liC2pTKINTbYDKtGaR2-6UJO3CgVI/edit?usp=sharing&amp;amp;ouid=117971317963904890005&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Traffic Systems with computer vision and Kubernetes at the edge, Coecys(Students summit), Guatemala, in person</title>
+      <link>http://localhost:1313/talks/2022/smart-traffic-coecys/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/smart-traffic-coecys/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez, professor at USAC University, presents how basic concepts of smart traffic systems and how to take advantage of the K3s a lightweight Kubernetes to build these kind of systems. This talk happened in the COECYS student summit from the USAC University.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/coecys/status/1569366166191198211&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/sergioarmgpl/status/1575903139496009729&#34;&gt;Photo&lt;/a&gt; | &lt;a href=&#34;https://b.link/coecys2022cvk3s&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Using Google Anthos and Knative for your serverless functions, GDG Sophia-Antipolis, France</title>
+      <link>http://localhost:1313/talks/2022/anthos-knative-serverless-gdg-sophia-antipolis/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/anthos-knative-serverless-gdg-sophia-antipolis/</guid>
+      
+        <description>&lt;p&gt;In this session, we are going to explore how to use Google Anthos and Knative to create a managed service and a customizable environment to build serverless functions on your systems. During the session, we are going to show a small demonstration about how to use Google Anthos and Knative to have a flexible framework to improve security and reduce costs on infrastructures using Kubernetes clusters.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gdg.community.dev/events/details/google-gdg-sophia-antipolis-presents-using-google-anthos-and-knative-for-your-serverless-functions&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/AnthosKnativeGDGSA&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Getting Involved Students Into the CNCF Cloud Native Ecosystem, Open Source Summit Latam, Community Leadership Conference</title>
+      <link>http://localhost:1313/talks/2022/students-cncf-oss-latam/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/students-cncf-oss-latam/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez, professor at USAC University, presents how he continuously updates his course content, to develop his students skills to work into the global tech market in the context of DevOps and cloud native technologies. Also he will present different strategies that he is using to update his content to introduce several CNCF open source projects such as Kubernetes as part of his course content, sharing the challenges of doing these changes. At the middle of the presentation, Sergio will share his experience hosting a Kubernetes Community Days in Guatemala with the participation of his students. Telling the audience in detail, how he organized this event, how he organized his students, speakers, the schedule, etc. At the end, Sergio presents the benefits that his students got when they participated in these events, and how now his students are participating in giving talks on local cloud native communities and events like KubeCon, applying for internships and getting jobs outside Guatemala.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/15Bre&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/StudentsCNCFOSSLatam&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Building Smart Farms with Edge Computing Systems Using Kubernetes, Open Source Summit Latam, Embedded IoT Summit</title>
+      <link>http://localhost:1313/talks/2022/smart-farms-edge-k8s-oss-latam/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/smart-farms-edge-k8s-oss-latam/</guid>
+      
+        <description>&lt;p&gt;This talk presents how you can use K3s, a lightweight Kubernetes distribution to implement an edge computing system. This talk also presents different use case scenarios where you can use K3s, temperature and humidity sensors to start building a smart farm. During the talk the speaker will show the different layers of and edge computing systems and where are the different pieces of a smart farm located across these layers. At the end of this talk Sergio is going to show a basic weather monitoring system implemented using K3s and Raspberry Pi devices, temperature and humidity sensors, MySQL and Grafana, showing in real-time how to monitor plants in gardens or farms. This example represents the basis of complex smart farms use cases.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/15Brb&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/EdgeDayK3sRPi2022&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Farms systems using K3s a lightweight Kubernetes, OpenInfraDays México</title>
+      <link>http://localhost:1313/talks/2022/smart-farms-k3s-k8s-openinfradays-mx/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/smart-farms-k3s-k8s-openinfradays-mx/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez shows us how Kubernetes can be used to monitor plants in gardens or farms using edge Kubernetes clusters in order to implement smart farm systems. This talk also presents a short demo, showing how you can monitor the temperature and humidity in a garden to take actions like watering plants. This demo runs using some basic sensors, K3s, a lightweight Kubernetes, and MySQL together with Grafana to show weather metrics of your garden or farm in real-time. During the talk, the attendee will learn how to implement a basic smart farm system using Kubernetes at the edge.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eventee.co/en/e/open-infrastructure-days-mexico-2022-13797&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/SFK3sOIDMX2022&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Building a Multi-Node Cluster with K3s Using ARM Devices, Kubernetes on Edge Day EU 2022, KubeConEU Spain</title>
+      <link>http://localhost:1313/talks/2022/multi-node-cluster-k3s-arm-k8s-edge-day-eu/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/multi-node-cluster-k3s-arm-k8s-edge-day-eu/</guid>
+      
+        <description>&lt;p&gt;Edge computing is coming as a way to improve user experience for applications, processing data near to the source. Sometimes in edge computing you share data between local machines and the cloud. If you are starting an edge computing project, you could be interested in taking advantage of containers on the edge. Here is where K3s shines to implement edge computing solutions on low resources environments that commonly use ARM devices. In this talk we are going to explore the key elements and best practices to build a K3s cluster on the edge using ARM devices. The talk will show how to build this cluster using Raspberry devices, showing how to configure your local network and a bare metal load balancer with MetalLB, and install other cloud native storage blocks such as Longhorn or OpenEBS. This to finally get a production ready K3s cluster. The talk also provides a quickstart to build edge computing environments for your needs, mentioning different use cases and challenges of this kind when building edge solutions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/zsAc&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/EdgeDayK3sRPi2022&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Deployments on the edge using Argo CD &amp; Workflows and K3s, ArgoCon</title>
+      <link>http://localhost:1313/talks/2021/deployments-argocd-workflows-k3s-argocon/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/deployments-argocd-workflows-k3s-argocon/</guid>
+      
+        <description>&lt;p&gt;This talk presents the challenges to perform continuous deployment for chatbots or ML applications on the edge using Argo CD &amp;amp; Workflows , and how you can use K3s as the main Kubernetes distribution to build edge computing systems. It also focuses in the strategies to do massive deployments on edge devices using ARM processors with Argo, combined with the power of K3s, and storage on the public cloud to fit IoT requirements and a lightweight environment for continuous deployments. At the end of this talk, the speaker presents a short demo, showing a hybrid edge system using public cloud services from GCP to store data for the edge cluster and the applications, and the execution of continuous deployment of ML model in some K3s clusters running on Raspberry Pi’s.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techstrongevents.com/argocon21/1678035&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/ArgoCon2021K3sEdge&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes Community Days Guatemala</title>
+      <link>http://localhost:1313/talks/2021/kcd-guatemala/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/kcd-guatemala/</guid>
+      
+        <description>&lt;p&gt;Kubernetes Community Days Guatemala was a two day event, one day for students and other for professionals, we had 402 attendees, 37 speaking sessions, and more than 15 students to organize the event. This event included speakers that speak Spanish and foreigh speakers from different countries, included India, China, UK, Costa Rica, El Salvador, Honduras, Spain, Guatemala and US. The event closed with Mila Verte concert. An indie music band from Guatemala. I was the main organizer.&lt;/p&gt;
+&lt;p&gt;This was the Twitter account for the event:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kcdguatemala&#34;&gt;https://twitter.com/kcdguatemala&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://kcdgt.com&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://www.youtube.com/watch?v=Rs8-kAI1SRA&amp;amp;list=PL8hlF0_rzCDyjN9N7S-wrQZ6kc_0hrFCe&#34;&gt;KCD Guatemala, Day 1 Students, Youtube Playlist&lt;/a&gt; |
+&lt;a href=&#34;https://www.youtube.com/watch?v=K-OPoe1zJeM&amp;amp;list=PL8hlF0_rzCDz2gamF9AqFYQXfgShtKPtW&#34;&gt;KCD Guatemala, Day 2 Professionals, Youtube Playlist&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Building the next generation of cloud native engineers, WTFisCloudNative</title>
+      <link>http://localhost:1313/talks/2021/building-next-generation-wtf-is-cloud-native/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/building-next-generation-wtf-is-cloud-native/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez, professor at USAC University, presents the reasons to teach cloud native technologies to students in the university, and how this helps them to build their skills and grow in their IT careers. He also presents how a student with the right skills will be able to tap into the global tech market, and how they may well innovate in their own countries, focusing on Guatemala.&lt;/p&gt;
+&lt;p&gt;He also will share his lessons learned and the challenges he found to choose the right content, to teach cloud native technologies like Kubernetes, Linkerd, or Chaos Mesh. He also explains how academia can help companies to adopt these technologies and the culture around cloud native.&lt;/p&gt;
+&lt;p&gt;In the end, Sergio will share how organizations like CNCF and projects like Linkerd, Chaos Mesh, and Curiefense are opening opportunities for students like speaking in conferences like KubeCon, Community Groups, internships, or doing contributions, giving real examples about what his students are doing in Central America.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cloud-native-conf.wtf/schedule&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/BuildingCNEngineers&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Edge Computing con Kubernetes y K3s, COECYS, Guatemala</title>
+      <link>http://localhost:1313/talks/2021/edge-computing-k3s-coecys/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/edge-computing-k3s-coecys/</guid>
+      
+        <description>&lt;p&gt;This talk was presented at COECYS 2021, an online students event from USAC university.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://coecys.org.gt/#timeline&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/EdgeK3sCOECYS2021&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Native and CNCF Projects, CNCF Students. Guatemala/India</title>
+      <link>http://localhost:1313/talks/2021/cncf-students-usac-cloudnative-projects/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/cncf-students-usac-cloudnative-projects/</guid>
+      
+        <description>&lt;p&gt;I hosted and speak in a live streaming for CNCF Students in Spanish, my students present the concepts of Cloud Native, CNCF projects, and how to start contributing. Online Event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-native-students-presents-cloud-native-and-cncf-projects-cloud-native-y-proyectos-de-cncf/&#34;&gt;Event Link&lt;/a&gt; |&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Creating Containers with Containerd, CNCF Students. Guatemala</title>
+      <link>http://localhost:1313/talks/2021/contained-cncf-students-guatemala/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/contained-cncf-students-guatemala/</guid>
+      
+        <description>&lt;p&gt;I hosted and speak in a live streaming for CNCF Students in Spanish, one of my students Leonel Aguilar presented a quick introduction to Containerd. Online Event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-nativegt-presents-creando-containers-con-containerd/&#34;&gt;Event Link&lt;/a&gt; |&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Chaos Engineering with Chaos Mesh® and Linkerd. DevCon, China</title>
+      <link>http://localhost:1313/talks/2021/chaos-mesh-devcon/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/chaos-mesh-devcon/</guid>
+      
+        <description>&lt;p&gt;DevCon2021 asian conference presented my pre-recorded talk about a quick Chaos Engineering introduction using Chaos Mesh and Linkerd. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pingcap.com/zh/events/devcon2021&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/DevCon2021ChaosMeshIntro&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Covid Realtime Visualizer with K8s, Linkerd &amp; Chaos Mesh. KCD, Spain</title>
+      <link>http://localhost:1313/talks/2021/kcd-spain-chaos-linkerd-os/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/kcd-spain-chaos-linkerd-os/</guid>
+      
+        <description>&lt;p&gt;I spoke with my students in the KCD Spain with the topic Realtime COVID-19 Vaccinated People Visualizer, this project was build using Kubernetes, Chaos Mesh, Linkerd, Strimzi, and gRPC. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kcdspain.com/agenda&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/KCDSpainCovid19USAC&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://gitlab.com/irenia/so1-proyecto2&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Building MLOps POCs and Sandbox Environments Using K3s and Argo. KubeConEU, Amsterdam</title>
+      <link>http://localhost:1313/talks/2021/mlops-k3s-argo-kubeconeu/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/mlops-k3s-argo-kubeconeu/</guid>
+      
+        <description>&lt;p&gt;I Spoke at KubeConEU 2021 about Building MLOps POCs and Sandbox Environments using K3s and Argo Workflows. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/iE5W&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/KubeconEU2021-k3s-argo&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/mlops-argo-k3s&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Creating Chaos in the University with Linkerd and Chaos Mesh. ServiceMeshConEU, Amsterdam</title>
+      <link>http://localhost:1313/talks/2021/chaos-mesh-linkerd-servicemeshcon/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/chaos-mesh-linkerd-servicemeshcon/</guid>
+      
+        <description>&lt;p&gt;I spoke at ServiceMeshConEU 2021 with Jossie Castrillo about Chaos Engineering using Chaos Mesh and Linkerd. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/iSBE&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/ServiceMeshCon2021ChaosUniversity&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/jossiebk/Demo-ServiceMeshcon2021&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Chaos Engineering with Chaos Mesh &amp; Linkerd. Chaos Mesh Community Meeting, China</title>
+      <link>http://localhost:1313/talks/2021/chaos-mesh-linkerd-april-community-meeting/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/chaos-mesh-linkerd-april-community-meeting/</guid>
+      
+        <description>&lt;p&gt;We talked with Jossie Castrillo at the Chaos Mesh April Community Meeting about Chaos Engineering with Chaos Mesh and Linkerd. Online Event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hubs.ly/H0Lz5mg0&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/ChaosMeshUSACSlides&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding The Importance of Linkerd Service Mesh IN A Cloud Native Stack. CloudNative.fm Ep #09, Pakistan</title>
+      <link>http://localhost:1313/talks/2021/service-mesh-podcast-islamabad/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/service-mesh-podcast-islamabad/</guid>
+      
+        <description>&lt;p&gt;I spoke at the Cloud Native FM / Cloud Native Islamabad Podcast with Saim Safdar. Online Event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5gcyx0H8mrs&#34;&gt;Podcast&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sergio Méndez: SRE, Professor &amp; CNCF Ambassador to Guatemala. United States.</title>
+      <link>http://localhost:1313/talks/2021/service-mesh-podcast-reblaze/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/service-mesh-podcast-reblaze/</guid>
+      
+        <description>&lt;p&gt;I spoke in the Curiefense/Reblaze Podcast with Justin Dorfman. Online Event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://podcast.curiefense.io/4&#34;&gt;Podcast Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>CI/CD in Kubernetes with Jenkins &amp; ArgoCD. CodeCamp, Guatemala</title>
+      <link>http://localhost:1313/talks/2021/jenkins-argo-codecamp/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/jenkins-argo-codecamp/</guid>
+      
+        <description>&lt;p&gt;This Talk was about how to create a CI/CD Pipeline, using Jenkins for CI, and ArgoCD for CD. This talk presented at CodeCamp 2021, Guatemala. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://codecamp-2021.github.io/Index/Agenda.html&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/jenkinsargocp2021&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/jenkins-argo-azure&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning Pipelines with K3s &amp; Argo. KCD, El Salvador</title>
+      <link>http://localhost:1313/talks/2021/k3s-argo-kcd-sv/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/k3s-argo-kcd-sv/</guid>
+      
+        <description>&lt;p&gt;This talk was about how to use K3s(Lightweight Kubernetes) for POCs and Argo to automate Machine Learning Pipelines, explaining basic concepts about MLOps, Containers and Orchestrators, at the end was presented a small demo that showed how to excute a small ML Pipeline using Argo Workflows, Scikit Learn for model generation, ArgoCD for model deployment and K3s to orchestrate all the containers asociated to these technologies. This talk presented at the Kubernetes Community Days El Salvador. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-san-salvador-presents-kubernetes-community-day-el-salvador/&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/KCDSVArgoK3s&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/mlops-argo-k3s&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Realtime COVID-19 Display System using Service Meshes, CNCF Students</title>
+      <link>http://localhost:1313/talks/2021/cncf-students-usac-university-linkerd/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/cncf-students-usac-university-linkerd/</guid>
+      
+        <description>&lt;p&gt;The students of USAC, university of Guatemala presented a project about a high concurrency system that displays real time information about Covid-19, this project used Cloud Native technologies such as Kubernetes, Linkerd, gRPC, Prometheus and others. Charles Pretzer from Linkerd Community and Field Engineer of Buoyant, helped us answering questions and promoted students to Join the Linkerd Community. This was one of many sessions that try to involve students into the CNCF ecosystems, we also promoted the hashtag #cncfstudents to share students work on the social networks, my role was to organize the event and help the students to present the project to the linkerd people.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-nativegt-presents-realtime-covid-19-display-system-using-service-meshes/&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://docs.google.com/presentation/d/1qjy-FIRmFk0sjSVuAjJtKYuBrL3K2oMzNQZvKBfcic4/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;|
+&lt;a href=&#34;https://github.com/sergioarmgpl/operating-systems-usac-course&#34;&gt;Project Description&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Service Mesh and Serverless Chatbots with Linkerd, K8s and OpenFaas, KubeconEU</title>
+      <link>http://localhost:1313/talks/2020/chatbots-linkerd-openfaas-kubeconeu/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2020/chatbots-linkerd-openfaas-kubeconeu/</guid>
+      
+        <description>&lt;p&gt;This session presented the different challenges for telco companies when they deploy support chatbots for clients, this is based on a real experience of working with chatbots in a telco company Telefónica based on Guatemala and some countries in Central America.
+The session also presented a simple architecture, the workflow and the way to implement service mesh with Linkerd, kubernetes and Openfaas, and how they interact together to implement canary deployments to create a simple and fast strategy to manage chatbots as a serverless functions.
+At the end of the session the speaker presented a short demo on how can implement a canary, blue/green deployments for serverless chatbots with some support intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kccnceu20.sched.com/event/Zemu/service-mesh-and-serverless-chatbots-with-linkerd-k8s-and-openfaas-sergio-mendez-universidad-san-carlos-de-guatemala&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://buoyant.io/resources/serverless-chatbots-linked-kubernetes-opensaas/&#34;&gt;Buoyant Post&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/kubeconeu2020-linkerd-openfaas&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/linkerd-openfaas-kubeconeu-2020&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How USAC university students use Linkerd in the Operating Systems course, Linkerd</title>
+      <link>http://localhost:1313/talks/2020/linkerd-usac-community-meeting/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2020/linkerd-usac-community-meeting/</guid>
+      
+        <description>&lt;p&gt;I shared with the Linkerd Community how we are experiment with Linkerd for the Operating Systems course in our final students project.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Minute: 37:40&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/Linkerd-Online-Community-Meetup/events/271761311&#34;&gt;Linkerd Community Meetup Link&lt;/a&gt;|
+&lt;a href=&#34;https://github.com/sergioarmgpl/operating-systems-usac-course&#34;&gt;Project Description&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Service Mesh and Serverless Chatbots with Linkerd, K8s and OpenFaas, SG, México</title>
+      <link>http://localhost:1313/talks/2020/chatbots-linkerd-openfaas-sg/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2020/chatbots-linkerd-openfaas-sg/</guid>
+      
+        <description>&lt;p&gt;This session presented the different challenges for telco companies when they deploy support chatbots for clients, this is based on a real experience of working with chatbots in a telco company Telefónica based on Guatemala and some countries in Central America.
+The session also presented a simple architecture, the workflow and the way to implement service mesh with Linkerd, kubernetes and Openfaas, and how they interact together to implement canary deployments to create a simple and fast strategy to manage chatbots as a serverless functions.
+At the end of the session the speaker presented a short demo on how can implement a canary, blue/green deployments for serverless chatbots with some support intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sg.com.mx/sgvirtual/sessions/service-mesh-and-serverless-chatbots-with-linkerd-k8s-and-openfaas/&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://www.slideshare.net/RevistaSG/service-mesh-and-serverless-chatbots-with-linkerd-k8s-and-openfaas&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/linkerd-openfaas-kubeconeu-2020&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Unlocking your serverless functions with OpenFaaS for AI chatbot projects, OSCON, O&#39;Reilly Media, US, Portland, OR</title>
+      <link>http://localhost:1313/talks/2019/unlocking-serverless-chatbots-openfaas/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2019/unlocking-serverless-chatbots-openfaas/</guid>
+      
+        <description>&lt;p&gt;Sergio Mendez examines critical challenges and the case study of Movistar to choose the right technologies to design an open source serverless architecture using OpenFaaS on top of Kubernetes and other complementary technologies like NoSQL, brokers to deploy Telegram AI chatbots, and how these technologies can be compared to vendor lock in services offered by major cloud providers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/detail/76105.html&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://docs.google.com/presentation/d/1du12ux5nrCj_5AOvxe8xc-CZmjoWhKbWU_QPEDeN19s/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -28,6 +28,6 @@ DevCon2021 asian conference presented my pre-recorded talk about a quick Chaos E
 -->
 ### Tweet
 
-{{< twitter_simple 1418832347286278148 >}}
+{{< twitter user="PingCAP" id="1418832347286278148" >}}
 
 <br>

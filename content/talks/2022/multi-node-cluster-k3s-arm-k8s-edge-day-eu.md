@@ -27,6 +27,6 @@ Edge computing is coming as a way to improve user experience for applications, p
 
 ### Tweet
 
-{{< twitter_simple 1526589563564605440 >}}
+{{< twitter user="sergioarmgpl" id="1526589563564605440" >}}
 
 <br>

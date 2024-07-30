@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servicemesh on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/servicemesh/</link>
+    <description>Recent content in Servicemesh on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/servicemesh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quickstart with Linkerd, KCD El Salvador, El Salvador</title>
+      <link>http://localhost:1313/talks/2023/linkerd-quickstart-kcdelsalvador/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/linkerd-quickstart-kcdelsalvador/</guid>
+      
+        <description>In this session show us how to start with service meshes using Linkerd.</description>
+      
+    </item>
+    
+    <item>
+      <title>Usactar soccer world cup real time system con Linkerd y Kubernetes, KCD El Salvador, El Salvador</title>
+      <link>http://localhost:1313/talks/2023/usactar-linkerd-k8s-kcdelsalvador/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/usactar-linkerd-k8s-kcdelsalvador/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez will demonstrate how students can learn about Service Meshes and cloud native technologies using Linkerd and Kubernetes at university. During this session, Sergio will show the USAC university project uses Linkerd for observability and multi-cluster interconnection. This real-time system called Usactar simulates comments and analytics of soccer matches based on the Qatar soccer cup. During the demo part, Sergio will show how the system works, how he observes Kafka message queues with gRPC interconnection and how he uses Linkerd for multi-cloud configuration to distribute components and data across different cloud providers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Administrando infraestructura en Kubernetes con ArgoCD y Crossplane, Cloud Native Costa Rica, Online</title>
+      <link>http://localhost:1313/talks/2023/crossplane-argocd-cncr/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/crossplane-argocd-cncr/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez will show us how to manage infrastructure in Kubernetes using ArgoCD and Crossplane. He will explain the basics of these tools and how they integrate with Kubernetes. Attendees will learn how to install and configure these tools in their own environment and how to use their features to provision cloud infrastructure for different cloud providers. At the end, Sergio will show a small implementation of how to provision infrastructure in Google Cloud using ArgoCD and Crossplane.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-native-costa-rica-presents-administrando-infraestructura-en-kubernetes-con-argocd-y-crossplane/&#34;&gt;Event Link1&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Usactar Soccer World Cup Real-Time System with Linkerd and Kubernetes, Cloud Native Now, virtual</title>
+      <link>http://localhost:1313/talks/2023/usactar-real-time-linkerd-k8s-cloud-native-now/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/usactar-real-time-linkerd-k8s-cloud-native-now/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez demonstrates how students can learn about service meshes and cloud-native technologies using Linkerd in a university setting.
+During the session, Sergio showcases a university project that used Linkerd for observability and multi-cluster interconnection. The real-time system simulates the comments and analytics for soccer matches in an event called Usactar based on the last World Cup in Qatar.
+During the demonstration, Sergio will show how this system works, how to observe message queues in Kafka and how Linkerd uses a multi-cloud configuration to distribute components and data around different cloud providers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techstrongevents.com/cloud-native-now-2023/speakers?page=1&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Chaos Engineering with Chaos Mesh® and Linkerd. DevCon, China</title>
+      <link>http://localhost:1313/talks/2021/chaos-mesh-devcon/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/chaos-mesh-devcon/</guid>
+      
+        <description>&lt;p&gt;DevCon2021 asian conference presented my pre-recorded talk about a quick Chaos Engineering introduction using Chaos Mesh and Linkerd. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pingcap.com/zh/events/devcon2021&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/DevCon2021ChaosMeshIntro&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Covid Realtime Visualizer with K8s, Linkerd &amp; Chaos Mesh. KCD, Spain</title>
+      <link>http://localhost:1313/talks/2021/kcd-spain-chaos-linkerd-os/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/kcd-spain-chaos-linkerd-os/</guid>
+      
+        <description>&lt;p&gt;I spoke with my students in the KCD Spain with the topic Realtime COVID-19 Vaccinated People Visualizer, this project was build using Kubernetes, Chaos Mesh, Linkerd, Strimzi, and gRPC. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kcdspain.com/agenda&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/KCDSpainCovid19USAC&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://gitlab.com/irenia/so1-proyecto2&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Creating Chaos in the University with Linkerd and Chaos Mesh. ServiceMeshConEU, Amsterdam</title>
+      <link>http://localhost:1313/talks/2021/chaos-mesh-linkerd-servicemeshcon/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/chaos-mesh-linkerd-servicemeshcon/</guid>
+      
+        <description>&lt;p&gt;I spoke at ServiceMeshConEU 2021 with Jossie Castrillo about Chaos Engineering using Chaos Mesh and Linkerd. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/iSBE&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/ServiceMeshCon2021ChaosUniversity&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/jossiebk/Demo-ServiceMeshcon2021&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Chaos Engineering with Chaos Mesh &amp; Linkerd. Chaos Mesh Community Meeting, China</title>
+      <link>http://localhost:1313/talks/2021/chaos-mesh-linkerd-april-community-meeting/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/chaos-mesh-linkerd-april-community-meeting/</guid>
+      
+        <description>&lt;p&gt;We talked with Jossie Castrillo at the Chaos Mesh April Community Meeting about Chaos Engineering with Chaos Mesh and Linkerd. Online Event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hubs.ly/H0Lz5mg0&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/ChaosMeshUSACSlides&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Understanding The Importance of Linkerd Service Mesh IN A Cloud Native Stack. CloudNative.fm Ep #09, Pakistan</title>
+      <link>http://localhost:1313/talks/2021/service-mesh-podcast-islamabad/</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/service-mesh-podcast-islamabad/</guid>
+      
+        <description>&lt;p&gt;I spoke at the Cloud Native FM / Cloud Native Islamabad Podcast with Saim Safdar. Online Event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=5gcyx0H8mrs&#34;&gt;Podcast&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sergio Méndez: SRE, Professor &amp; CNCF Ambassador to Guatemala. United States.</title>
+      <link>http://localhost:1313/talks/2021/service-mesh-podcast-reblaze/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/service-mesh-podcast-reblaze/</guid>
+      
+        <description>&lt;p&gt;I spoke in the Curiefense/Reblaze Podcast with Justin Dorfman. Online Event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://podcast.curiefense.io/4&#34;&gt;Podcast Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

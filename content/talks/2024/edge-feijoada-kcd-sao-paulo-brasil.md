@@ -20,4 +20,4 @@ I spoke at Cloud Guatemala with the topic "Edge deployments with Flux" it was ab
 ---
 ### Tweet
 
-{{< twitter_simple 1761377138496729143 >}}
+{{< twitter user="salaboy" id="1761377138496729143" >}}

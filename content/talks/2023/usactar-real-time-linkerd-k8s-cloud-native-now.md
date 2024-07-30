@@ -28,4 +28,4 @@ During the demonstration, Sergio will show how this system works, how to observe
 
 ### Tweet
 
-{{< twitter_simple 1678653585565925377 >}}
+{{< twitter user="sergioarmgpl" id="1678653585565925377" >}}

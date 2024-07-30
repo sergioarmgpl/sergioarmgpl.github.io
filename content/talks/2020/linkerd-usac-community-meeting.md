@@ -33,6 +33,6 @@ I shared with the Linkerd Community how we are experiment with Linkerd for the O
 
 ### Tweet
 
-{{< twitter_simple 1288489532833308672 >}}
+{{< twitter user="Linkerd" id="1288489532833308672" >}}
 
 <br>

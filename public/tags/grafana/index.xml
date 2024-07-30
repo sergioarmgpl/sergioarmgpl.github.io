@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grafana on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/grafana/</link>
+    <description>Recent content in Grafana on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/grafana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafana and data visualization dashboards, USAC, Guatemala, Online</title>
+      <link>http://localhost:1313/talks/2024/grafana-usac/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/grafana-usac/</guid>
+      
+        <description>I spoke about the basic of how to use Grafana to visualize data in real-time, this session was shared to the Operating Systems course in USAC university.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

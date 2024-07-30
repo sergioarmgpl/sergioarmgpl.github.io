@@ -17,4 +17,4 @@ In this talk, Sergio Méndez will showed to young univesity students how to use 
 
 ### Tweet
 
-{{< twitter_simple 1661883231132692482 >}}
+{{< twitter user="sergioarmgpl" id="1661883231132692482" >}}

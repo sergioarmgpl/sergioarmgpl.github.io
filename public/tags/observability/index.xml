@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observability on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/observability/</link>
+    <description>Recent content in Observability on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/observability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Usactar soccer world cup real time system con Linkerd y Kubernetes, KCD El Salvador, El Salvador</title>
+      <link>http://localhost:1313/talks/2023/usactar-linkerd-k8s-kcdelsalvador/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/usactar-linkerd-k8s-kcdelsalvador/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez will demonstrate how students can learn about Service Meshes and cloud native technologies using Linkerd and Kubernetes at university. During this session, Sergio will show the USAC university project uses Linkerd for observability and multi-cluster interconnection. This real-time system called Usactar simulates comments and analytics of soccer matches based on the Qatar soccer cup. During the demo part, Sergio will show how the system works, how he observes Kafka message queues with gRPC interconnection and how he uses Linkerd for multi-cloud configuration to distribute components and data across different cloud providers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mlops on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/mlops/</link>
+    <description>Recent content in Mlops on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mlops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building MLOps POCs and Sandbox Environments Using K3s and Argo. KubeConEU, Amsterdam</title>
+      <link>http://localhost:1313/talks/2021/mlops-k3s-argo-kubeconeu/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/mlops-k3s-argo-kubeconeu/</guid>
+      
+        <description>&lt;p&gt;I Spoke at KubeConEU 2021 about Building MLOps POCs and Sandbox Environments using K3s and Argo Workflows. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/iE5W&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/KubeconEU2021-k3s-argo&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/mlops-argo-k3s&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

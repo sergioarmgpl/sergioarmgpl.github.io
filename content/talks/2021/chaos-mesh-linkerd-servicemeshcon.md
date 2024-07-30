@@ -29,6 +29,6 @@ I spoke at ServiceMeshConEU 2021 with Jossie Castrillo about Chaos Engineering u
 
 ### Tweet
 
-{{< twitter_simple 1388916945400078339 >}}
+{{< twitter user="chaos_mesh" id="1388916945400078339" >}}
 
 <br>

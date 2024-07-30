@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K3s on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/k3s/</link>
+    <description>Recent content in K3s on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/k3s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grafana and data visualization dashboards, USAC, Guatemala, Online</title>
+      <link>http://localhost:1313/talks/2024/arduino-day-usac/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/arduino-day-usac/</guid>
+      
+        <description>&lt;p&gt;I spoke at Arduino Day USAC about Creating edge computing solutions using hardware and Kubernetes. This event was hosted at USAC university.
+&lt;a href=&#34;https://www.facebook.com/photo/?fbid=750359143745460&#34;&gt;Event&lt;/a&gt; | &lt;a href=&#34;https://www.instagram.com/reel/C6FvK3KszMq&#34;&gt;Video&lt;/a&gt; | &lt;a href=&#34;https://www.instagram.com/p/C6Fu1geMKb7&#34;&gt;Photo&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Sustainable Edge systems and food tech using cloud native technologies, Veeam Kubernetes Korner, Online</title>
+      <link>http://localhost:1313/talks/2024/foodtech-env-sus-k3s-cloud-native-veeam/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/foodtech-env-sus-k3s-cloud-native-veeam/</guid>
+      
+        <description>In this show, Sergio and Geoffrey will talk about Sergio&amp;rsquo;s latest book, &amp;ldquo;Edge Computing Systems with Kubernetes,&amp;rdquo; outlining the fundamental components necessary for edge computing and sharing how these systems contribute to environmental sustainability.</description>
+      
+    </item>
+    
+    <item>
+      <title>Cooking a Sustainable Feijoada with Edge Cloud Native Technologies, KCD Sao Paulo, Brasil</title>
+      <link>http://localhost:1313/talks/2024/edge-feijoada-kcd-sao-paulo-brasil/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024/edge-feijoada-kcd-sao-paulo-brasil/</guid>
+      
+        <description>&lt;p&gt;I spoke at Cloud Guatemala with the topic &amp;ldquo;Edge deployments with Flux&amp;rdquo; it was about how to take advantage of Flux at the edge to update devices. I also hosted the event with other organizers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/&#34;&gt;Event&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/kcdsaopaulo_speakers-on-conhe%C3%A7a-o-palestrantesergio-activity-7160593917476847616-OvGJ?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;LinkedIn Post&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/sergioarmgpl_kubernetes-cloudnative-activity-7167363704685084672-cy-x?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;Photos&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Deployment Strategies on the Edge with Flux and K3s, DeveloperWeek Latin America 2023</title>
+      <link>http://localhost:1313/talks/2023/edge-flux-k3s-developer-week/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/edge-flux-k3s-developer-week/</guid>
+      
+        <description>&lt;p&gt;In this talk Sergio presents different continuous deployment strategies that can be used to deploy applications on the edge using containers. Specifically the ones that use devices with ARM processors that have a low power consumption. The talk also shows how Flux and K3s (A lightweight Kubernetes) can be used to implement continuous deployment for different needs on the edge context and the challenges of it.
+In the live demonstration, Sergio will show how to implement continuous deployment for a simple edge application that changes the color of a LED running on a Raspberry Pi device using K3s.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/1MjL0&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Edge Computing with Kubernetes | Episode 63, Cloud Native Podcast</title>
+      <link>http://localhost:1313/talks/2022/cloudnative-fm-edge-book-review/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/cloudnative-fm-edge-book-review/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez is going to share his experience and history behind why and what motivated him to write his book “Edge Computing with Kubernetes” by Packt publisher. After this introduction, he is going to give a walkthrough of the different chapters of the book explaining in a practical way how to use the content of each chapter to solve your day-to-day edge computing system problems and how to run your edge systems on ARM devices with the lightweight Kubernetes K3s.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://b.link/EdgeK8sBook&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Databases at the edge with K3s and ARM devices, Data on Kubernetes (DoK)</title>
+      <link>http://localhost:1313/talks/2022/databases-edge-k3s-arm-dok/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/databases-edge-k3s-arm-dok/</guid>
+      
+        <description>&lt;p&gt;In this session, Sergio Méndez is going to share his experience and history behind why and what motivated him to write his book “Edge Computing with Kubernetes” by Packt publisher. After this introduction, he is going to give a walkthrough of the different chapters of the book explaining in a practical way how to use the content of each chapter to solve your day-to-day edge computing system problems and how to run your edge systems on ARM devices with the lightweight Kubernetes K3s.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/data-on-kubernetes-community/events/289963706/&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/sergioarmgpl/status/1597765873242034176&#34;&gt;Photo&lt;/a&gt; | &lt;a href=&#34;https://docs.google.com/presentation/d/1Np2liC2pTKINTbYDKtGaR2-6UJO3CgVI/edit?usp=sharing&amp;amp;ouid=117971317963904890005&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Traffic Systems with computer vision and Kubernetes at the edge, Coecys(Students summit), Guatemala, in person</title>
+      <link>http://localhost:1313/talks/2022/smart-traffic-coecys/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/smart-traffic-coecys/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez, professor at USAC University, presents how basic concepts of smart traffic systems and how to take advantage of the K3s a lightweight Kubernetes to build these kind of systems. This talk happened in the COECYS student summit from the USAC University.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/coecys/status/1569366166191198211&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/sergioarmgpl/status/1575903139496009729&#34;&gt;Photo&lt;/a&gt; | &lt;a href=&#34;https://b.link/coecys2022cvk3s&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Building a Multi-Node Cluster with K3s Using ARM Devices, Kubernetes on Edge Day EU 2022, KubeConEU Spain</title>
+      <link>http://localhost:1313/talks/2022/multi-node-cluster-k3s-arm-k8s-edge-day-eu/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/multi-node-cluster-k3s-arm-k8s-edge-day-eu/</guid>
+      
+        <description>&lt;p&gt;Edge computing is coming as a way to improve user experience for applications, processing data near to the source. Sometimes in edge computing you share data between local machines and the cloud. If you are starting an edge computing project, you could be interested in taking advantage of containers on the edge. Here is where K3s shines to implement edge computing solutions on low resources environments that commonly use ARM devices. In this talk we are going to explore the key elements and best practices to build a K3s cluster on the edge using ARM devices. The talk will show how to build this cluster using Raspberry devices, showing how to configure your local network and a bare metal load balancer with MetalLB, and install other cloud native storage blocks such as Longhorn or OpenEBS. This to finally get a production ready K3s cluster. The talk also provides a quickstart to build edge computing environments for your needs, mentioning different use cases and challenges of this kind when building edge solutions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/zsAc&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/EdgeDayK3sRPi2022&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Edge Computing con Kubernetes y K3s, COECYS, Guatemala</title>
+      <link>http://localhost:1313/talks/2021/edge-computing-k3s-coecys/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/edge-computing-k3s-coecys/</guid>
+      
+        <description>&lt;p&gt;This talk was presented at COECYS 2021, an online students event from USAC university.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://coecys.org.gt/#timeline&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/EdgeK3sCOECYS2021&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Building MLOps POCs and Sandbox Environments Using K3s and Argo. KubeConEU, Amsterdam</title>
+      <link>http://localhost:1313/talks/2021/mlops-k3s-argo-kubeconeu/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/mlops-k3s-argo-kubeconeu/</guid>
+      
+        <description>&lt;p&gt;I Spoke at KubeConEU 2021 about Building MLOps POCs and Sandbox Environments using K3s and Argo Workflows. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/iE5W&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/KubeconEU2021-k3s-argo&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/mlops-argo-k3s&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning Pipelines with K3s &amp; Argo. KCD, El Salvador</title>
+      <link>http://localhost:1313/talks/2021/k3s-argo-kcd-sv/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/k3s-argo-kcd-sv/</guid>
+      
+        <description>&lt;p&gt;This talk was about how to use K3s(Lightweight Kubernetes) for POCs and Argo to automate Machine Learning Pipelines, explaining basic concepts about MLOps, Containers and Orchestrators, at the end was presented a small demo that showed how to excute a small ML Pipeline using Argo Workflows, Scikit Learn for model generation, ArgoCD for model deployment and K3s to orchestrate all the containers asociated to these technologies. This talk presented at the Kubernetes Community Days El Salvador. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-san-salvador-presents-kubernetes-community-day-el-salvador/&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/KCDSVArgoK3s&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/mlops-argo-k3s&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

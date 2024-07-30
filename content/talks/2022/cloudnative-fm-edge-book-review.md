@@ -23,6 +23,6 @@ In this session, Sergio Méndez is going to share his experience and history beh
 <br>
 ### Tweet
 
-{{< twitter_simple 1599759437555650561 >}}
+{{< twitter user="cloudnativeboy" id="1599759437555650561" >}}
 
 <br>

@@ -25,6 +25,6 @@ I spoke at the Cloud Native FM / Cloud Native Islamabad Podcast with Saim Safdar
 
 ### Tweet
 
-{{< twitter_simple 1382366788919255040 >}}
+{{< twitter user="CloudIslamabad" id="1382366788919255040" >}}
 
 <br>

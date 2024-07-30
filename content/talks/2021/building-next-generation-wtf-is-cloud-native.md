@@ -30,6 +30,6 @@ In the end, Sergio will share how organizations like CNCF and projects like Link
 
 ### Tweet
 
-{{< twitter_simple 1456299128212819969 >}}
+{{< twitter user="sergioarmgpl" id="1456299128212819969" >}}
 
 <br>

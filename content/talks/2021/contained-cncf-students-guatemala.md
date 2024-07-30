@@ -27,6 +27,6 @@ I hosted and speak in a live streaming for CNCF Students in Spanish, one of my s
 
 ### Tweet
 
-{{< twitter_simple 1441518781558255627 >}}
+{{< twitter user="sergioarmgpl" id="1441518781558255627" >}}
 
 <br>

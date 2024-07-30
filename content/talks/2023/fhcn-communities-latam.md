@@ -22,4 +22,4 @@ In this panel, Sergio Méndez shared about how the different communities in Lati
 
 ### Tweet
 
-{{< twitter_simple 1659336310761353217 >}}
+{{< twitter user="sergioarmgpl" id="1659336310761353217" >}}

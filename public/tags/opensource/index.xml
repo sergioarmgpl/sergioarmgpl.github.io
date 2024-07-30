@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensource on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/opensource/</link>
+    <description>Recent content in Opensource on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TAG Env sustainability, Automation to detect required website translations, Github, cncf.io, (IN PROGRESS)</title>
+      <link>http://localhost:1313/contribs/tag-env-sustainability-autodetect-website-translations/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contribs/tag-env-sustainability-autodetect-website-translations/</guid>
+      
+        <description>&lt;p&gt;I participated leading this contribution and also adding my translation, to finally translate with all the Cloud Native Guatemala organizers the TAG Env Sustainability Website into Spanish.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/cncf/tag-env-sustainability/issues/325&#34;&gt;Issue&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>TAG Env sustainability, Website translation into Spanish language, Github, cncf.io</title>
+      <link>http://localhost:1313/contribs/tag-env-sustainability-cngt-contribution/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contribs/tag-env-sustainability-cngt-contribution/</guid>
+      
+        <description>&lt;p&gt;I participated leading this contribution and also adding my translation, to finally translate with all the Cloud Native Guatemala organizers the TAG Env Sustainability Website into Spanish.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://tag-env-sustainability.cncf.io/es/&#34;&gt;TAG Env Sustainability Website ES Link&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/cncf-tag-environmental-sustainability_tag-environmental-sustainability-activity-7171505054883921921-YrTm?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;LinkedIn Post&lt;/a&gt; | &lt;a href=&#34;https://github.com/cncf/tag-env-sustainability/pull/340&#34;&gt;Pull Request&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>A KCD lead by the next generation of cloud native engineers, Blog Post, cncf.io</title>
+      <link>http://localhost:1313/contribs/kcd-students-next-generation-cncf/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contribs/kcd-students-next-generation-cncf/</guid>
+      
+        <description>&lt;p&gt;We want to share this article with you on how San Carlos University students, technology enthusiasts and collaborators from the countryside had led Cloud Native events in Guatemala, showing how they are the next generation of Cloud Native engineers in our country. I participating leading this blog post for CNCF with my students, and also organizing the blog post about the content.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cncf.io/blog/2024/02/02/a-kcd-lead-by-the-next-generation-of-cloud-native-engineers/&#34;&gt;CNCF Link&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/cloud-native-guatemala_cloudnative-kubernetes-kcdguatemala-activity-7161154093682507776-708R?utm_source=share&amp;amp;utm_medium=member_desktop&#34;&gt;LinkedIn Post&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Native Guatemala Weekly Working Sessions &amp; Study Group with Organizers, Online</title>
+      <link>http://localhost:1313/contribs/cloud-native-guatemala-organizer/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contribs/cloud-native-guatemala-organizer/</guid>
+      
+        <description>&lt;p&gt;We want to share this article with you on how San Carlos University students, technology enthusiasts and collaborators from the countryside had led Cloud Native events in Guatemala, showing how they are the next generation of Cloud Native engineers in our country. I participating leading this blog post for CNCF with my students, and also organizing the blog post about the content.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://calendar.google.com/calendar/u/4/r?cid=OWE2YzE4ZDc5ZjQwMGQ4NzQxMzY0YWI1M2I0NGQxN2VhMTYzNGIyYjlhOWQyOWY4ZjYzMDY2NzhjN2RjZjU4ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&#34;&gt;Working &amp;amp; Study Group Sessions Calendar&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Farms systems using K3s a lightweight Kubernetes, OpenInfraDays México</title>
+      <link>http://localhost:1313/talks/2022/smart-farms-k3s-k8s-openinfradays-mx/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/smart-farms-k3s-k8s-openinfradays-mx/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez shows us how Kubernetes can be used to monitor plants in gardens or farms using edge Kubernetes clusters in order to implement smart farm systems. This talk also presents a short demo, showing how you can monitor the temperature and humidity in a garden to take actions like watering plants. This demo runs using some basic sensors, K3s, a lightweight Kubernetes, and MySQL together with Grafana to show weather metrics of your garden or farm in real-time. During the talk, the attendee will learn how to implement a basic smart farm system using Kubernetes at the edge.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://eventee.co/en/e/open-infrastructure-days-mexico-2022-13797&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/SFK3sOIDMX2022&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Deployments on the edge using Argo CD &amp; Workflows and K3s, ArgoCon</title>
+      <link>http://localhost:1313/talks/2021/deployments-argocd-workflows-k3s-argocon/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/deployments-argocd-workflows-k3s-argocon/</guid>
+      
+        <description>&lt;p&gt;This talk presents the challenges to perform continuous deployment for chatbots or ML applications on the edge using Argo CD &amp;amp; Workflows , and how you can use K3s as the main Kubernetes distribution to build edge computing systems. It also focuses in the strategies to do massive deployments on edge devices using ARM processors with Argo, combined with the power of K3s, and storage on the public cloud to fit IoT requirements and a lightweight environment for continuous deployments. At the end of this talk, the speaker presents a short demo, showing a hybrid edge system using public cloud services from GCP to store data for the edge cluster and the applications, and the execution of continuous deployment of ML model in some K3s clusters running on Raspberry Pi’s.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techstrongevents.com/argocon21/1678035&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/ArgoCon2021K3sEdge&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Kubernetes Community Days Guatemala</title>
+      <link>http://localhost:1313/talks/2021/kcd-guatemala/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/kcd-guatemala/</guid>
+      
+        <description>&lt;p&gt;Kubernetes Community Days Guatemala was a two day event, one day for students and other for professionals, we had 402 attendees, 37 speaking sessions, and more than 15 students to organize the event. This event included speakers that speak Spanish and foreigh speakers from different countries, included India, China, UK, Costa Rica, El Salvador, Honduras, Spain, Guatemala and US. The event closed with Mila Verte concert. An indie music band from Guatemala. I was the main organizer.&lt;/p&gt;
+&lt;p&gt;This was the Twitter account for the event:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/kcdguatemala&#34;&gt;https://twitter.com/kcdguatemala&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://kcdgt.com&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://www.youtube.com/watch?v=Rs8-kAI1SRA&amp;amp;list=PL8hlF0_rzCDyjN9N7S-wrQZ6kc_0hrFCe&#34;&gt;KCD Guatemala, Day 1 Students, Youtube Playlist&lt;/a&gt; |
+&lt;a href=&#34;https://www.youtube.com/watch?v=K-OPoe1zJeM&amp;amp;list=PL8hlF0_rzCDz2gamF9AqFYQXfgShtKPtW&#34;&gt;KCD Guatemala, Day 2 Professionals, Youtube Playlist&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Building the next generation of cloud native engineers, WTFisCloudNative</title>
+      <link>http://localhost:1313/talks/2021/building-next-generation-wtf-is-cloud-native/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/building-next-generation-wtf-is-cloud-native/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez, professor at USAC University, presents the reasons to teach cloud native technologies to students in the university, and how this helps them to build their skills and grow in their IT careers. He also presents how a student with the right skills will be able to tap into the global tech market, and how they may well innovate in their own countries, focusing on Guatemala.&lt;/p&gt;
+&lt;p&gt;He also will share his lessons learned and the challenges he found to choose the right content, to teach cloud native technologies like Kubernetes, Linkerd, or Chaos Mesh. He also explains how academia can help companies to adopt these technologies and the culture around cloud native.&lt;/p&gt;
+&lt;p&gt;In the end, Sergio will share how organizations like CNCF and projects like Linkerd, Chaos Mesh, and Curiefense are opening opportunities for students like speaking in conferences like KubeCon, Community Groups, internships, or doing contributions, giving real examples about what his students are doing in Central America.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cloud-native-conf.wtf/schedule&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/BuildingCNEngineers&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

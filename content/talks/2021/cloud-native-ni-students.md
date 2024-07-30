@@ -25,6 +25,6 @@ This talk was about Cloud Native, it explains the theory behind and how CNCF is 
 
 ### Tweet
 
-{{< twitter_simple 1361727129654878209 >}}
+{{< twitter user="sergioarmgpl" id="1361727129654878209" >}}
 
 <br>

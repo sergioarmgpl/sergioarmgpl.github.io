@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cicd on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/cicd/</link>
+    <description>Recent content in Cicd on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cicd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quickstart with Internal Developer Platforms with ArgoCD and Github Actions, Cloud Native Amsterdam, Amsterdam</title>
+      <link>http://localhost:1313/talks/2023/quickstart-gitops-argocd-cnamsterdam/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/quickstart-gitops-argocd-cnamsterdam/</guid>
+      
+        <description>&lt;p&gt;In this talk, Sergio Méndez is going to talk about Internal Developer Platforms (IDP), and all the concepts around IDPs and platform engineering, and how companies can start building IDPs using ArgoCD and Github Actions.&lt;/p&gt;
+&lt;p&gt;During this talk, Sergio is going to show a small self-service implementation with ArgoCD to create Kubernetes applications using Github Actions forms to execute pipelines that create ArgoCD applications definitions that ArgoCD can use to provision applications in a Kubernetes cluster.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-amsterdam-presents-4-cloud-nativekubernetes-meetup-of-2023-hosted-by-mia-platform/&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/sergioarmgpl_what-an-amazing-event-last-thursday-in-activity-7109545052762169344-lrJr/&#34;&gt;LinkedIn Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Computer Vision at the Edge with K3s and Neural Network Accelerators, Civo Navigate Europe, London, UK</title>
+      <link>http://localhost:1313/talks/2023/k3s-neural-networks-computer-vision-civo/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/k3s-neural-networks-computer-vision-civo/</guid>
+      
+        <description>&lt;p&gt;Explore the world of edge computing and computer vision with Sergio Méndez. Learn how K3s and neural network accelerators are revolutionizing data processing at the edge. Discover AI and machine learning applications and master computer vision challenges in this informative talk.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.civo.com/navigate&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/posts/sergioarmgpl_i-will-be-speaking-at-civo-navigate-this-activity-7099981668920225792-APsD&#34;&gt;LinkedIn Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Merging To Main #6: The Journey to Self-Service GitOps, Codefresh, Online</title>
+      <link>http://localhost:1313/talks/2023/self-service-argo-gitops-codefresh/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/self-service-argo-gitops-codefresh/</guid>
+      
+        <description>&lt;p&gt;Can you reduce your time spent enabling development teams without risking everything?&lt;/p&gt;
+&lt;p&gt;Sergio Méndez, DevOps leader at Yalo and CNCF Ambassador joins this enlightening episode of Merging to Main and covers the trials and tribulations of creating the holy grail of DevOps, self-service GitOps.&lt;/p&gt;
+&lt;p&gt;Learn:
+How do you structure teams responsibilities
+Automate your permissions
+Can you do self-service at the edge?
+Where does an IDP or something like Backstage fit in?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://codefresh.io/events/merging-to-main-6-the-journey-to-self-service-gitops/&#34;&gt;Event Link&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Buy vs. Build in DevOps, Uptime community,virtual</title>
+      <link>http://localhost:1313/talks/2023/uptime-community-buy-vs-build-devops/</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2023/uptime-community-buy-vs-build-devops/</guid>
+      
+        <description>&lt;p&gt;Join us for a lively discussion on the age-old debate of &amp;ldquo;Buy vs. Build in DevOps&amp;rdquo; with five industry experts. Our panelists will explore the benefits and drawbacks of purchasing pre-built software versus building custom solutions, and share their insights on when each approach is the best choice. Don&amp;rsquo;t miss out on this insightful online event!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/events/buyvs-buildindevops7061803871416774657&#34;&gt;Video &amp;amp; Event&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Tracking DevOps Data in Event Driven CD Pipelines, Brad McCoy, Continuos Delivery Summit, Detroit</title>
+      <link>http://localhost:1313/talks/2022/tracking-devops-cdsummit/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/tracking-devops-cdsummit/</guid>
+      
+        <description>&lt;p&gt;I just introduced the attendees to the theory behind Ortelius.&lt;/p&gt;
+&lt;p&gt;Description: From early on the Ortelius team had seen value in events and how they can solve many of our problems that we face in our DevOps processes, particularly around Interoperability.&lt;/p&gt;
+&lt;p&gt;As they embarked on their journey implementing GitOps, they then realized that there were a lot of moving parts and tools in their CI/CD process so decided to adopt Keptn as the control plane to handle events. In this session we will explore how Ortelius, Keptn and GitOps forms a new kind of pipeline that incorporates a central catalog for tracking the DevOps data in an event driven CD Pipeline.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/1BPCW&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://www.flickr.com/photos/143247548@N03/52466885486/in/album-72177720303164393&#34;&gt;Photo&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Students non code contributions for Linkerd and other CNCF projects, Sergio &amp; Flynn, Representing CNCF,CCOSS, México</title>
+      <link>http://localhost:1313/talks/2022/non-code-students-contributions-ccoss/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/non-code-students-contributions-ccoss/</guid>
+      
+        <description>&lt;p&gt;In this talk we presented with Flynn from Buoyant and Linkerd community how students can contribute with and without code to the CNCF projects, in special how students are contributing to Linkerd.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ccoss.org/sessions/2022/linkerd-guatemala&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/i/broadcasts/1lDGLnEerAkxm&#34;&gt;Video&lt;/a&gt; |
+&lt;a href=&#34;https://docs.google.com/presentation/d/1CGXHrIFf3jaziecWWlIEbidjxGArn3Wjeg6ZBHqozug/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Driving innovation with Keptn and Interoperability, Brad McCoy, Sergio Mendez, Keptn Community Day, in person, Detroit</title>
+      <link>http://localhost:1313/talks/2022/keptn-community-day/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/keptn-community-day/</guid>
+      
+        <description>&lt;p&gt;In this talk Sergio explained the theory around Keptn and Brad show a practical demonstration about how to use Keptn with Testkube.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kccncna2022.sched.com/event/1Atcb/keptn-community-day&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/grabnerandi/status/1584950799511465984&#34;&gt;Photo&lt;/a&gt; |
+&lt;a href=&#34;https://docs.google.com/presentation/d/1Np2liC2pTKINTbYDKtGaR2-6UJO3CgVI/edit?usp=sharing&amp;amp;ouid=117971317963904890005&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Deployments on the edge using Argo CD &amp; Workflows and K3s, ArgoCon</title>
+      <link>http://localhost:1313/talks/2021/deployments-argocd-workflows-k3s-argocon/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/deployments-argocd-workflows-k3s-argocon/</guid>
+      
+        <description>&lt;p&gt;This talk presents the challenges to perform continuous deployment for chatbots or ML applications on the edge using Argo CD &amp;amp; Workflows , and how you can use K3s as the main Kubernetes distribution to build edge computing systems. It also focuses in the strategies to do massive deployments on edge devices using ARM processors with Argo, combined with the power of K3s, and storage on the public cloud to fit IoT requirements and a lightweight environment for continuous deployments. At the end of this talk, the speaker presents a short demo, showing a hybrid edge system using public cloud services from GCP to store data for the edge cluster and the applications, and the execution of continuous deployment of ML model in some K3s clusters running on Raspberry Pi’s.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.techstrongevents.com/argocon21/1678035&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/ArgoCon2021K3sEdge&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

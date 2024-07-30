@@ -23,6 +23,6 @@ Running code at edge could be challenging when running your programs using low p
 <br>
 ### Tweet
 
-{{< twitter_simple 1584595018886811649 >}}
+{{< twitter user="salaboy" id="1584595018886811649" >}}
 
 <br>

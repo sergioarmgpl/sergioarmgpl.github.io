@@ -19,6 +19,6 @@ In this talk, Sergio Méndez, professor at USAC University, presents how basic c
 
 ### Tweet
 
-{{< twitter_simple 1569366166191198211 >}}
+{{< twitter user="coecys" id="1569366166191198211" >}}
 
 <br>

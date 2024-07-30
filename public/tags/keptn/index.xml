@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keptn on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/keptn/</link>
+    <description>Recent content in Keptn on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/keptn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracking DevOps Data in Event Driven CD Pipelines, Brad McCoy, Continuos Delivery Summit, Detroit</title>
+      <link>http://localhost:1313/talks/2022/tracking-devops-cdsummit/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/tracking-devops-cdsummit/</guid>
+      
+        <description>&lt;p&gt;I just introduced the attendees to the theory behind Ortelius.&lt;/p&gt;
+&lt;p&gt;Description: From early on the Ortelius team had seen value in events and how they can solve many of our problems that we face in our DevOps processes, particularly around Interoperability.&lt;/p&gt;
+&lt;p&gt;As they embarked on their journey implementing GitOps, they then realized that there were a lot of moving parts and tools in their CI/CD process so decided to adopt Keptn as the control plane to handle events. In this session we will explore how Ortelius, Keptn and GitOps forms a new kind of pipeline that incorporates a central catalog for tracking the DevOps data in an event driven CD Pipeline.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sched.co/1BPCW&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://www.flickr.com/photos/143247548@N03/52466885486/in/album-72177720303164393&#34;&gt;Photo&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Driving innovation with Keptn and Interoperability, Brad McCoy, Sergio Mendez, Keptn Community Day, in person, Detroit</title>
+      <link>http://localhost:1313/talks/2022/keptn-community-day/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/keptn-community-day/</guid>
+      
+        <description>&lt;p&gt;In this talk Sergio explained the theory around Keptn and Brad show a practical demonstration about how to use Keptn with Testkube.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kccncna2022.sched.com/event/1Atcb/keptn-community-day&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/grabnerandi/status/1584950799511465984&#34;&gt;Photo&lt;/a&gt; |
+&lt;a href=&#34;https://docs.google.com/presentation/d/1Np2liC2pTKINTbYDKtGaR2-6UJO3CgVI/edit?usp=sharing&amp;amp;ouid=117971317963904890005&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

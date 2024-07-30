@@ -29,6 +29,6 @@ This talk presents the challenges to perform continuous deployment for chatbots 
 
 ### Tweet
 
-{{< twitter_simple 1466458952531644419 >}}
+{{< twitter user="sergioarmgpl" id="1466458952531644419" >}}
 
 <br>

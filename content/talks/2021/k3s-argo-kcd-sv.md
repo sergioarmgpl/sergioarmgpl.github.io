@@ -27,6 +27,6 @@ This talk was about how to use K3s(Lightweight Kubernetes) for POCs and Argo to 
 
 ### Tweet
 
-{{< twitter_simple 1355949530215231493 >}}
+{{< twitter user="kcdelsalvador" id="1355949530215231493" >}}
 
 <br>

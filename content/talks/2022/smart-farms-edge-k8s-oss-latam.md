@@ -28,6 +28,6 @@ This talk presents how you can use K3s, a lightweight Kubernetes distribution to
 
 ### Tweet
 
-{{< twitter_simple 1560842928360198145 >}}
+{{< twitter user="sergioarmgpl" id="1560842928360198145" >}}
 
 <br>

@@ -25,6 +25,6 @@ Sergio Mendez examines critical challenges and the case study of Movistar to cho
 
 ### Tweet
 
-{{< twitter_simple 1151646063113039877 >}}
+{{< twitter user="tylerdave" id="1151646063113039877" >}}
 
 <br>

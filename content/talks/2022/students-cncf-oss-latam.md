@@ -26,6 +26,6 @@ In this talk, Sergio Méndez, professor at USAC University, presents how he cont
 
 ### Tweet
 
-{{< twitter_simple 1562488182465527808 >}}
+{{< twitter user="sergioarmgpl" id="1562488182465527808" >}}
 
 <br>

@@ -17,6 +17,6 @@ I spoke in the Curiefense/Reblaze Podcast with Justin Dorfman. Online Event.
 
 ### Tweet
 
-{{< twitter_simple 1376997313328029704 >}}
+{{< twitter user="jdorfman" id="1376997313328029704" >}}
 
 <br>

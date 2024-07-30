@@ -25,4 +25,4 @@ Join us for a lively discussion on the age-old debate of "Buy vs. Build in DevOp
 
 ### Tweet
 
-{{< twitter_simple 1661104519277871105 >}}
+{{< twitter user="KubernetesDays" id="1661104519277871105" >}}

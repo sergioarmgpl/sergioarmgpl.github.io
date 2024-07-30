@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qualitygates on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/qualitygates/</link>
+    <description>Recent content in Qualitygates on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/qualitygates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Driving innovation with Keptn and Interoperability, Brad McCoy, Sergio Mendez, Keptn Community Day, in person, Detroit</title>
+      <link>http://localhost:1313/talks/2022/keptn-community-day/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2022/keptn-community-day/</guid>
+      
+        <description>&lt;p&gt;In this talk Sergio explained the theory around Keptn and Brad show a practical demonstration about how to use Keptn with Testkube.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kccncna2022.sched.com/event/1Atcb/keptn-community-day&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://twitter.com/grabnerandi/status/1584950799511465984&#34;&gt;Photo&lt;/a&gt; |
+&lt;a href=&#34;https://docs.google.com/presentation/d/1Np2liC2pTKINTbYDKtGaR2-6UJO3CgVI/edit?usp=sharing&amp;amp;ouid=117971317963904890005&amp;amp;rtpof=true&amp;amp;sd=true&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

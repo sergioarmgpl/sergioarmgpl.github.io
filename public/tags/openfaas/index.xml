@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openfaas on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/openfaas/</link>
+    <description>Recent content in Openfaas on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/openfaas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Service Mesh and Serverless Chatbots with Linkerd, K8s and OpenFaas, KubeconEU</title>
+      <link>http://localhost:1313/talks/2020/chatbots-linkerd-openfaas-kubeconeu/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2020/chatbots-linkerd-openfaas-kubeconeu/</guid>
+      
+        <description>&lt;p&gt;This session presented the different challenges for telco companies when they deploy support chatbots for clients, this is based on a real experience of working with chatbots in a telco company Telefónica based on Guatemala and some countries in Central America.
+The session also presented a simple architecture, the workflow and the way to implement service mesh with Linkerd, kubernetes and Openfaas, and how they interact together to implement canary deployments to create a simple and fast strategy to manage chatbots as a serverless functions.
+At the end of the session the speaker presented a short demo on how can implement a canary, blue/green deployments for serverless chatbots with some support intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kccnceu20.sched.com/event/Zemu/service-mesh-and-serverless-chatbots-with-linkerd-k8s-and-openfaas-sergio-mendez-universidad-san-carlos-de-guatemala&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://buoyant.io/resources/serverless-chatbots-linked-kubernetes-opensaas/&#34;&gt;Buoyant Post&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/kubeconeu2020-linkerd-openfaas&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/linkerd-openfaas-kubeconeu-2020&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Service Mesh and Serverless Chatbots with Linkerd, K8s and OpenFaas, SG, México</title>
+      <link>http://localhost:1313/talks/2020/chatbots-linkerd-openfaas-sg/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2020/chatbots-linkerd-openfaas-sg/</guid>
+      
+        <description>&lt;p&gt;This session presented the different challenges for telco companies when they deploy support chatbots for clients, this is based on a real experience of working with chatbots in a telco company Telefónica based on Guatemala and some countries in Central America.
+The session also presented a simple architecture, the workflow and the way to implement service mesh with Linkerd, kubernetes and Openfaas, and how they interact together to implement canary deployments to create a simple and fast strategy to manage chatbots as a serverless functions.
+At the end of the session the speaker presented a short demo on how can implement a canary, blue/green deployments for serverless chatbots with some support intelligence.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sg.com.mx/sgvirtual/sessions/service-mesh-and-serverless-chatbots-with-linkerd-k8s-and-openfaas/&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://www.slideshare.net/RevistaSG/service-mesh-and-serverless-chatbots-with-linkerd-k8s-and-openfaas&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/sergioarmgpl/linkerd-openfaas-kubeconeu-2020&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Unlocking your serverless functions with OpenFaaS for AI chatbot projects, OSCON, O&#39;Reilly Media, US, Portland, OR</title>
+      <link>http://localhost:1313/talks/2019/unlocking-serverless-chatbots-openfaas/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2019/unlocking-serverless-chatbots-openfaas/</guid>
+      
+        <description>&lt;p&gt;Sergio Mendez examines critical challenges and the case study of Movistar to choose the right technologies to design an open source serverless architecture using OpenFaaS on top of Kubernetes and other complementary technologies like NoSQL, brokers to deploy Telegram AI chatbots, and how these technologies can be compared to vendor lock in services offered by major cloud providers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/detail/76105.html&#34;&gt;Event Link&lt;/a&gt; | &lt;a href=&#34;https://docs.google.com/presentation/d/1du12ux5nrCj_5AOvxe8xc-CZmjoWhKbWU_QPEDeN19s/edit?usp=sharing&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

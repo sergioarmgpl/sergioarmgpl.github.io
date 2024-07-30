@@ -33,6 +33,6 @@ The students of USAC, university of Guatemala presented a project about a high c
 
 ### Tweet
 
-{{< twitter_simple 1350267825634611202 >}}
+{{< twitter user="sergioarmgpl" id="1350267825634611202" >}}
 
 <br>

@@ -28,6 +28,6 @@ I Spoke at KubeConEU 2021 about Building MLOps POCs and Sandbox Environments usi
 
 ### Tweet
 
-{{< twitter_simple 1390296271483670536 >}}
+{{< twitter user="sergioarmgpl" id="1390296271483670536" >}}
 
 <br>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Containerd on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/containerd/</link>
+    <description>Recent content in Containerd on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/containerd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating Containers with Containerd, CNCF Students. Guatemala</title>
+      <link>http://localhost:1313/talks/2021/contained-cncf-students-guatemala/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/contained-cncf-students-guatemala/</guid>
+      
+        <description>&lt;p&gt;I hosted and speak in a live streaming for CNCF Students in Spanish, one of my students Leonel Aguilar presented a quick introduction to Containerd. Online Event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://community.cncf.io/events/details/cncf-cloud-nativegt-presents-creando-containers-con-containerd/&#34;&gt;Event Link&lt;/a&gt; |&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

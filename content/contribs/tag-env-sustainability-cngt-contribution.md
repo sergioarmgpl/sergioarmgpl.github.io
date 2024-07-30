@@ -19,6 +19,6 @@ I participated leading this contribution and also adding my translation, to fina
 ---
 ### Tweet
 
-{{< twitter_simple 1765739179076390975 >}}
+{{< twitter user="CNCFEnvTAG" id="1765739179076390975" >}}
 
 <br>

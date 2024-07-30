@@ -26,6 +26,6 @@ This talk was presented at COECYS 2021, an online students event from USAC unive
 
 ### Tweet
 
-{{< twitter_simple 1443754212240863232 >}}
+{{< twitter user="sergioarmgpl" id="1443754212240863232" >}}
 
 <br>

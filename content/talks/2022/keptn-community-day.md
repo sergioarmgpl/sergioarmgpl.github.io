@@ -20,6 +20,6 @@ In this talk Sergio explained the theory around Keptn and Brad show a practical 
 
 ### Tweet
 
-{{< twitter_simple 1584950000399810560 >}}
+{{< twitter user="keptnProject" id="1584950000399810560" >}}
 
 <br>

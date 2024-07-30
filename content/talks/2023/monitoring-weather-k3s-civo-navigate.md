@@ -22,10 +22,10 @@ In this talk, Sergio Méndez will show us how K3s (a lightweight Kubernetes) is 
 
 ### Tweet
 
-{{< twitter_simple 1623370800396136448 >}}
+{{< twitter user="rberrelleza" id="1623370800396136448" >}}
 
 <br>
 
 ### Civo Tweet
 
-{{< twitter_simple 1620474539242037249 >}}
+{{< twitter user="CivoCloud" id="1620474539242037249" >}}

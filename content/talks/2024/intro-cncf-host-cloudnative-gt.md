@@ -24,4 +24,4 @@ I was host in the speaking session "Intro: Ecosistema CNCF", I introduced the sp
 
 ### Tweet
 
-{{< twitter_simple 1750703762409206023 >}}
+{{< twitter user="cloudnativegt" id="1750703762409206023" >}}

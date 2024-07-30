@@ -24,4 +24,4 @@ This was the Twitter account for the event:
 
 ### Tweet
 
-{{< twitter_simple 1457599086924861445 >}}
+{{< twitter user="sergioarmgpl" id="1457599086924861445" >}}

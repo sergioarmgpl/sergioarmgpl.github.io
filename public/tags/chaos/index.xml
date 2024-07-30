@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaos on Sergio Méndez Website</title>
+    <link>http://localhost:1313/tags/chaos/</link>
+    <description>Recent content in Chaos on Sergio Méndez Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/chaos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chaos Engineering with Chaos Mesh® and Linkerd. DevCon, China</title>
+      <link>http://localhost:1313/talks/2021/chaos-mesh-devcon/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/chaos-mesh-devcon/</guid>
+      
+        <description>&lt;p&gt;DevCon2021 asian conference presented my pre-recorded talk about a quick Chaos Engineering introduction using Chaos Mesh and Linkerd. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pingcap.com/zh/events/devcon2021&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/DevCon2021ChaosMeshIntro&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Covid Realtime Visualizer with K8s, Linkerd &amp; Chaos Mesh. KCD, Spain</title>
+      <link>http://localhost:1313/talks/2021/kcd-spain-chaos-linkerd-os/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2021/kcd-spain-chaos-linkerd-os/</guid>
+      
+        <description>&lt;p&gt;I spoke with my students in the KCD Spain with the topic Realtime COVID-19 Vaccinated People Visualizer, this project was build using Kubernetes, Chaos Mesh, Linkerd, Strimzi, and gRPC. Online event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kcdspain.com/agenda&#34;&gt;Event Link&lt;/a&gt; |
+&lt;a href=&#34;https://b.link/KCDSpainCovid19USAC&#34;&gt;Slides&lt;/a&gt; |
+&lt;a href=&#34;https://gitlab.com/irenia/so1-proyecto2&#34;&gt;Demo Repository&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

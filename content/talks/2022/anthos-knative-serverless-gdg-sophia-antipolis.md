@@ -27,6 +27,6 @@ In this session, we are going to explore how to use Google Anthos and Knative to
 
 ### Tweet
 
-{{< twitter_simple 1566764902873702406 >}}
+{{< twitter user="gdgsophia" id="1566764902873702406" >}}
 
 <br>

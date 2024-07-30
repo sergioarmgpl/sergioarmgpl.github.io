@@ -26,6 +26,6 @@ In this talk, Sergio Méndez shows us how Kubernetes can be used to monitor plan
 
 ### Tweet
 
-{{< twitter_simple 1559243084227137536 >}}
+{{< twitter user="OpenInfraCDMX" id="1559243084227137536" >}}
 
 <br>

@@ -18,4 +18,4 @@ In this talk Sergio Méndez will talk to us about how Agritech and Foodtech solu
 
 ### Tweet
 
-{{< twitter_simple 1734999129128866004 >}}
+{{< twitter user="KCDSpain" id="1734999129128866004" >}}
