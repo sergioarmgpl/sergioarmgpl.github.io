@@ -1,7 +1,7 @@
 +++
 author = "Sergio Méndez"
 title = "Organized and spoke at Cloud Native Guatemala, Cloud Native + Kubernetes Agenda in 2025, Cloud Native Guatemala"
-date = "2024-01-31"
+date = "2025-01-31"
 description = ""
 tags = [
     "kubernetes",
