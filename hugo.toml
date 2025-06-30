@@ -62,6 +62,11 @@ url = "https://github.com/sergioarmgpl"
 #url = "https://www.instagram.com/"
 
 [[params.socialIcons]]
+icon = "fas fa-globe"
+title = "Social Networks"
+url = "https://linktr.ee/sergioarmgpl"
+
+[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:sergioarm.gpl@gmail.com"
@@ -98,19 +103,12 @@ url = "mailto:sergioarm.gpl@gmail.com"
   weight = 600
   identifier = "github"
   url = "https://github.com/sergioarmgpl"
-
-  [[menu.main]]
-  name = "My Content"
-  weight = 650
-  identifier = "my-content"
-  url = "https://linktr.ee/sergioarmgpl"
   
-
   [[menu.main]]
   name = "Resume"
   weight = 700
   identifier = "resume"
-  url = "https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/export?format=pdf"
+  url = "https://docs.google.com/document/d/1Uu_ttaJQ3xk_Yu1g4CNWIQXBK7kgqgjnf7LTRrE9pkc/export?format=pdf"
 
   [[menu.main]]
   name = "My Book"
