@@ -85,7 +85,7 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "/"
 
   [[menu.main]]
-  name = "Posts+Contrib"
+  name = "Posts+Contribs"
   weight = 300
   identifier = "blog"
 #  url = "https://blog.sergiops.xyz"
