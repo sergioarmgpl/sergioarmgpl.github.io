@@ -67,6 +67,11 @@ title = "Social Networks"
 url = "https://linktr.ee/sergioarmgpl"
 
 [[params.socialIcons]]
+icon = "fas fa-phone"
+title = "Schedule a call"
+url = "https://calendly.com/sergioarmgpl/meeting"
+
+[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:sergioarm.gpl@gmail.com"
@@ -80,11 +85,12 @@ url = "mailto:sergioarm.gpl@gmail.com"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Posts+Contrib"
   weight = 300
   identifier = "blog"
 #  url = "https://blog.sergiops.xyz"
-  url = "https://dev.to/sergioarmgpl"
+#  url = "https://dev.to/sergioarmgpl"
+#  url = "/posts_contrib"
 
   [[menu.main]]
   name = "Talks"
@@ -92,11 +98,11 @@ url = "mailto:sergioarm.gpl@gmail.com"
   identifier = "talks"
   url = "/talks/"
 
-  [[menu.main]]
-  name = "Contributions"
-  weight = 500
-  identifier = "contribs"
-  url = "/contribs/"
+  #[[menu.main]]
+  #name = "Contributions"
+  #weight = 500
+  #identifier = "contribs"
+  #url = "/contribs/"
 
   [[menu.main]]
   name = "Github"
@@ -121,12 +127,6 @@ url = "mailto:sergioarm.gpl@gmail.com"
   weight = 800
   identifier = "about"
   url = "/about/"
-
-  [[menu.main]]
-  name = "Contact"
-  weight = 900
-  identifier = "contact"
-  url = "/contact/"
 
 [services]
 # Enable Disqus.Disqus.Shortname
