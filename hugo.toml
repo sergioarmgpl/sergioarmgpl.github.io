@@ -82,7 +82,7 @@ url = "mailto:sergioarm.gpl@gmail.com"
   name = "Home"
   identifier = "home"
   weight = 100
-  url = "/"
+  url = "/about"
 
   [[menu.main]]
   name = "Posts+Contribs"
