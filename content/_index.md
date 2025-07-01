@@ -2,10 +2,10 @@
 author = "Sergio Méndez"
 +++
 ### My short Bio to start...
-Hi I am Sergio Méndez a systems engineer and professor of operating systems at USAC Guatemala university. I have experience working on DevOps, and MLOps using open source technologies at work. About open source communities, I am pretty active in the CNCF Community, promoting students into the CNCF Ecosystem and hosting a Cloud Native meetings in Guatemala. I have been a speaker at several conferences such as KubeCon, WTFisCloudNative, and Kubernetes Community Days. I am currently CNCF and Linkerd Ambassador but recently became a distinguished ARM ambassador, and also author of the Packt book Edge Computing Systems with Kubernetes. Wrote the book was a big challenge.
+Hi I am Sergio Méndez a systems engineer and professor of operating systems at USAC Guatemala university. I have experience working on DevOps, and MLOps using open source technologies at work. About open source communities, I am pretty active in the CNCF Community, promoting students into the CNCF Ecosystem and hosting a Cloud Native meetings in Guatemala. I have been a speaker at several conferences such as KubeCon, WTFisCloudNative, and Kubernetes Community Days around the world. Currently I am a CNCF and Linkerd Ambassador but recently became a distinguished ARM ambassador, and also author of the Packt book Edge Computing Systems with Kubernetes. Wrote the book was a big challenge.
 
 ### My Current Projects???
-I am currently working in a project called KubeMaya which is a platform to prepare edge devices using ARM to run AI programs. This plataform using K3s (A lightweight Kubernetes) running in a Air-gapped environment. The idea is to use KubeMaya to run applications that we are developing in USAC University in Guatemala to run AI programs that helps in local archeologists in their research related to archeology.
+I am currently working in a project called KubeMaya which is a platform to prepare edge devices using ARM to run AI programs. This plataform use K3s (A lightweight Kubernetes) running in a Air-gapped environment. The idea is to use KubeMaya to run applications that we are developing in USAC University in Guatemala to run AI programs that helps in local archeologists in their research related to archeology.
 
 If you want to check KubeMaya is [here](https://github.com/sergioarmgpl/kubemaya)
 
