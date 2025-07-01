@@ -19,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "I'm Sergio Méndez"
 author = "Sergio Méndez"
-copyright = "2020-2024"
+copyright = "2020-2025"
 description = "Speaker, {CNCF,ARM} Ambassador, Author, K8s, Edge"
 profilePicture = "https://github.com/sergioarmgpl.png"
 keywords = ""
