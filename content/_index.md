@@ -14,6 +14,9 @@ Currently I am working with 3 students with a thesis that are related to image a
 ### Check my content :)
 In this personal website I have a lot of content that you can check, so give some love to my content, also looking to connect with people and open to new opportunities specially if are related to open source.
 
+### How you can contact me?
+To contact me, feel free to write me on social networks, my [email](mailto:sergioarm.gpl@gmail.com) or schedule a call with me using my [calendly](https://calendly.com/sergioarmgpl/meeting), please also check my links using the icons on this website :). Nice to meet you and enjoy my website.
+
 <!--
 This file is left intentionally empty by default to be backward compatible with initial theme setup.
 
