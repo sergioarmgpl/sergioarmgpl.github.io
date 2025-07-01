@@ -14,5 +14,5 @@ tags = [
 +++
 In this blog post I explain how to manage container registries with Zot and Oras running on ARM devices.
 
-[Link](https://dev.to/sergioarmgpl/zot-and-oras-to-create-manage-edge-container-registries-3kam)
+[Link](https://dev.to/sergioarmgpl/zot-and-oras-to-create-manage-edge-container-registries-3kam) | [Reddit](https://www.reddit.com/r/kubernetes/comments/1jeap1f/deploy_a_container_registry_with_zot_and_manage/)
 <!--more-->
