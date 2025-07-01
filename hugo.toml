@@ -90,7 +90,7 @@ url = "mailto:sergioarm.gpl@gmail.com"
   identifier = "blog"
 #  url = "https://blog.sergiops.xyz"
 #  url = "https://dev.to/sergioarmgpl"
-#  url = "/posts_contribs"
+  url = "/posts_contribs"
 
   [[menu.main]]
   name = "Talks"
