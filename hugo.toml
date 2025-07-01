@@ -122,11 +122,11 @@ url = "mailto:sergioarm.gpl@gmail.com"
   identifier = "books"
   url = "/books/"
 
-  [[menu.main]]
-  name = "About"
-  weight = 800
-  identifier = "about"
-  url = "/about/"
+#  [[menu.main]]
+#  name = "About"
+#  weight = 800
+#  identifier = "about"
+#  url = "/about/"
 
 [services]
 # Enable Disqus.Disqus.Shortname
