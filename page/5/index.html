@@ -1,38 +1,954 @@
-<!doctype html><html dir=ltr lang=en data-theme class="html theme--light"><head><meta charset=utf-8><title>Sergio Méndez
-</title><meta name=generator content="Hugo 0.130.0"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name=author content="Sergio Méndez"><meta name=description content="Speaker, {CNCF,ARM} Ambassador, Author, K8s, Edge"><link rel=stylesheet href=/scss/main.min.8d4fad7e6916ad2e291e8d97ada157c70350d6d7150fea137e7243340967befb.css integrity="sha256-jU+tfmkWrS4pHo2XraFXxwNQ1tcVD+oTfnJDNAlnvvs=" crossorigin=anonymous type=text/css><link rel=stylesheet href=/css/markupHighlight.min.73ccfdf28df555e11009c13c20ced067af3cb021504cba43644c705930428b00.css integrity="sha256-c8z98o31VeEQCcE8IM7QZ688sCFQTLpDZExwWTBCiwA=" crossorigin=anonymous type=text/css><link rel=stylesheet href=/fontawesome/css/fontawesome.min.137b1cf3cea9a8adb7884343a9a5ddddf4280f59153f74dc782fb7f7bf0d0519.css integrity="sha256-E3sc886pqK23iENDqaXd3fQoD1kVP3TceC+3978NBRk=" crossorigin=anonymous type=text/css><link rel=stylesheet href=/fontawesome/css/solid.min.e65dc5b48fb5f39b142360c57c3a215744c94e56c755c929cc3e88fe12aab4d3.css integrity="sha256-5l3FtI+185sUI2DFfDohV0TJTlbHVckpzD6I/hKqtNM=" crossorigin=anonymous type=text/css><link rel=stylesheet href=/fontawesome/css/regular.min.6f4f16d58da1c82c0c3a3436e021a3d39b4742f741192c546e73e947eacfd92f.css integrity="sha256-b08W1Y2hyCwMOjQ24CGj05tHQvdBGSxUbnPpR+rP2S8=" crossorigin=anonymous type=text/css><link rel=stylesheet href=/fontawesome/css/brands.min.e10425ad768bc98ff1fb272a0ac8420f9d1ba22f0612c08ff1010c95080ffe7e.css integrity="sha256-4QQlrXaLyY/x+ycqCshCD50boi8GEsCP8QEMlQgP/n4=" crossorigin=anonymous type=text/css><link rel="shortcut icon" href=/favicons/favicon.ico type=image/x-icon><link rel=apple-touch-icon sizes=180x180 href=/favicons/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=/favicons/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/favicons/favicon-16x16.png><link rel=canonical href=https://sergiops.xyz/><link rel=alternate type=application/rss+xml href=/index.xml title="Sergio Méndez Website"><script type=text/javascript src=/js/anatole-header.min.f9132794301a01ff16550ed66763482bd848f62243d278f5e550229a158bfd32.js integrity="sha256-+RMnlDAaAf8WVQ7WZ2NIK9hI9iJD0nj15VAimhWL/TI=" crossorigin=anonymous></script><script type=text/javascript src=/js/anatole-theme-switcher.min.d6d329d93844b162e8bed1e915619625ca91687952177552b9b3e211014a2957.js integrity="sha256-1tMp2ThEsWLovtHpFWGWJcqRaHlSF3VSubPiEQFKKVc=" crossorigin=anonymous></script><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://sergiops.xyz/images/site-feature-image.png"><meta name=twitter:title content="Sergio Méndez Website"><meta name=twitter:description content="My short Bio Sergio Méndez is a systems engineer and professor of operating systems at USAC Guatemala university."><meta property="og:url" content="https://sergiops.xyz/"><meta property="og:site_name" content="Sergio Méndez Website"><meta property="og:title" content="Sergio Méndez Website"><meta property="og:description" content="My short Bio Sergio Méndez is a systems engineer and professor of operating systems at USAC Guatemala university."><meta property="og:locale" content="en"><meta property="og:type" content="website"><meta property="og:image" content="https://sergiops.xyz/images/site-feature-image.png"><script type=application/ld+json>{"@context":"http://schema.org","@type":"WebSite","name":"Sergio Méndez Website","url":"https:\/\/sergiops.xyz\/","description":"Speaker, {CNCF,ARM} Ambassador, Author, K8s, Edge","thumbnailUrl":"https:\/\/sergiops.xyz\/","license":"2020-2025"}</script></head><body class=body><div class=wrapper><aside class=wrapper__sidebar><div class="sidebar
-animated fadeInDown"><div class=sidebar__content><div class=sidebar__introduction><img class=sidebar__introduction-profileimage src=https://github.com/sergioarmgpl.png alt="profile picture"><div class=sidebar__introduction-title><h1><a href=/>I'm Sergio Méndez</a></h1></div><div class=sidebar__introduction-description><p>Speaker, {CNCF,ARM} Ambassador, Author, K8s, Edge</p></div></div><ul class=sidebar__list><li class=sidebar__list-item><a href=https://www.linkedin.com/in/sergioarmgpl target=_blank rel="noopener me" aria-label=Linkedin title=Linkedin><i class="fab fa-linkedin fa-2x" aria-hidden=true></i></a></li><li class=sidebar__list-item><a href=https://twitter.com/sergioarmgpl target=_blank rel="noopener me" aria-label=Twitter title=Twitter><i class="fab fa-twitter fa-2x" aria-hidden=true></i></a></li><li class=sidebar__list-item><a href=https://github.com/sergioarmgpl target=_blank rel="noopener me" aria-label=GitHub title=GitHub><i class="fab fa-github fa-2x" aria-hidden=true></i></a></li><li class=sidebar__list-item><a href=https://linktr.ee/sergioarmgpl target=_blank rel="noopener me" aria-label="Social Networks" title="Social Networks"><i class="fas fa-globe fa-2x" aria-hidden=true></i></a></li><li class=sidebar__list-item><a href=https://calendly.com/sergioarmgpl/meeting target=_blank rel="noopener me" aria-label="Schedule a call" title="Schedule a call"><i class="fas fa-phone fa-2x" aria-hidden=true></i></a></li><li class=sidebar__list-item><a href=mailto:sergioarm.gpl@gmail.com target=_blank rel="noopener me" aria-label=e-mail title=e-mail><i class="fas fa-envelope fa-2x" aria-hidden=true></i></a></li></ul></div><footer class="footer footer__sidebar"><ul class=footer__list><li class=footer__item>&copy;
-2020-2025</li></ul></footer><script type=text/javascript src=/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ=" crossorigin=anonymous></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-4RT9ZH2MBM"></script><script>var dnt,doNotTrack=!1;if(!1&&(dnt=navigator.doNotTrack||window.doNotTrack||navigator.msDoNotTrack,doNotTrack=dnt=="1"||dnt=="yes"),!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-4RT9ZH2MBM")}</script></div></aside><main class=wrapper__main><header class=header><div class="animated fadeInDown"><a role=button class=navbar-burger data-target=navMenu aria-label=menu aria-expanded=false><span aria-hidden=true class=navbar-burger__line></span>
-<span aria-hidden=true class=navbar-burger__line></span>
-<span aria-hidden=true class=navbar-burger__line></span></a><nav class=nav><ul class=nav__list id=navMenu><li class=nav__list-item><a class=nav__link--active href=/ title>Home</a></li><li class=nav__list-item><a href=/posts_contribs title>Posts+Contribs</a></li><li class=nav__list-item><a href=/talks/ title>Talks</a></li><li class=nav__list-item><a href=https://github.com/sergioarmgpl target=_blank rel="noopener noreferrer" title>Github</a></li><li class=nav__list-item><a href="https://docs.google.com/document/d/1Uu_ttaJQ3xk_Yu1g4CNWIQXBK7kgqgjnf7LTRrE9pkc/export?format=pdf" target=_blank rel="noopener noreferrer" title>Resume</a></li><li class=nav__list-item><a href=/about/ title>About</a></li><li class=nav__list-item><a href=/books/ title>My Book</a></li></ul><ul class="nav__list nav__list--end"><li class=nav__list-item><div class=themeswitch><a title="Switch Theme"><i class="fas fa-adjust fa-fw" aria-hidden=true></i></a></div></li></ul></nav></div></header><div class="post
-animated fadeInDown"><div class=post__content><h3 id=my-short-bio>My short Bio</h3><p>Sergio Méndez is a systems engineer and professor of operating systems at USAC Guatemala university. He has experience working on DevOps, and MLOps using open source technologies at work. About open source communities, he is involved in the CNCF Community, promoting students into the CNCF Ecosystem and hosting a Cloud Native meetup in Guatemala. He has been a speaker at several conferences such as KubeCon, WTFisCloudNative, and Kubernetes Community Days. He is also a CNCF and Linkerd Ambassador, recently a distinguished ARM ambassador, and also author of the Packt book Edge Computing Systems with Kubernetes.</p><h3 id=current-projects>Current projects</h3><p>I am currently working in a project called KubeMaya which is a platform to prepare edge devices using ARM to run AI programs. This plataform using K3s (A lightweight Kubernetes) running in a Air-gapped environment. The idea is to use KubeMaya to run applications that we are developing in USAC University in Guatemala to run AI programs that helps in local archeologists in their research related to archeology.</p><p>If you want to check KubeMaya is <a href=https://github.com/sergioarmgpl/kubemaya>here</a></p><p>Currently I am working with 3 students with a thesis that are related to image analysis, and we are going to use part of this research in this new project. So let&rsquo;s see what the future brings to me.</p><h3 id=check-my-content>Check my content</h3><p>In this personal website I have a lot of content that you can check, so give some love to my content, also looking to connect with people and open to new opportunities specially if are related to open source.</p></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/k8s-universidad-usac-p1/>K8S EN LA UNIVERSIDAD - PARTE 1, CLOUD NATIVE GUATEMALA, ONLINE</a></h3><p></p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Thu, Oct 12, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/students/>students</a><a class=tag href=/tags/cloudnative/>cloudnative</a></span></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/linkerd-quickstart-kcdelsalvador/>QUICKSTART WITH LINKERD, KCD EL SALVADOR, EL SALVADOR</a></h3><p>In this session show us how to start with service meshes using Linkerd.</p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Sat, Sep 30, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/servicemesh/>servicemesh</a><a class=tag href=/tags/cloudnative/>cloudnative</a><a class=tag href=/tags/linkerd/>linkerd</a></span></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/usactar-linkerd-k8s-kcdelsalvador/>USACTAR SOCCER WORLD CUP REAL TIME SYSTEM CON LINKERD Y KUBERNETES, KCD EL SALVADOR, EL SALVADOR</a></h3><p></p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Sat, Sep 30, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/servicemesh/>servicemesh</a><a class=tag href=/tags/cloudnative/>cloudnative</a><a class=tag href=/tags/kafka/>kafka</a><a class=tag href=/tags/grpc/>grpc</a><a class=tag href=/tags/observability/>observability</a><a class=tag href=/tags/linkerd/>linkerd</a></span></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/crossplane-argocd-cncr/>ADMINISTRANDO INFRAESTRUCTURA EN KUBERNETES CON ARGOCD Y CROSSPLANE, CLOUD NATIVE COSTA RICA, ONLINE</a></h3><p></p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Tue, Sep 26, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/servicemesh/>servicemesh</a><a class=tag href=/tags/cloudnative/>cloudnative</a><a class=tag href=/tags/linkerd/>linkerd</a></span></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/ruta-kcna/>RUTA AL KCNA - HORAS DE OFICINA, ONLINE</a></h3><p></p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Tue, Sep 26, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/kcna/>kcna</a><a class=tag href=/tags/linkerd/>linkerd</a></span></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/k8s-raspberry-coecys-agexport/>USANDO KUBERNETES Y RASPBERRY PI PARA CREAR PROYECTOS DE HARDWARE, COECYS STUDENT SUMMIT, GUATEMALA</a></h3><p></p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Tue, Sep 26, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/edgecomputing/>edgecomputing</a><a class=tag href=/tags/raspberrypi/>raspberrypi</a><a class=tag href=/tags/hardware/>hardware</a><a class=tag href=/tags/cloudnative/>cloudnative</a></span></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/quickstart-gitops-argocd-cnamsterdam/>QUICKSTART WITH INTERNAL DEVELOPER PLATFORMS WITH ARGOCD AND GITHUB ACTIONS, CLOUD NATIVE AMSTERDAM, AMSTERDAM</a></h3><p></p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Thu, Sep 14, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/cicd/>cicd</a><a class=tag href=/tags/gitops/>gitops</a><a class=tag href=/tags/argocd/>argocd</a><a class=tag href=/tags/cloudnative/>cloudnative</a></span></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/k3s-neural-networks-computer-vision-civo/>COMPUTER VISION AT THE EDGE WITH K3S AND NEURAL NETWORK ACCELERATORS, CIVO NAVIGATE EUROPE, LONDON, UK</a></h3><p></p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Tue, Sep 5, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/cicd/>cicd</a><a class=tag href=/tags/gitops/>gitops</a><a class=tag href=/tags/argocd/>argocd</a><a class=tag href=/tags/cloudnative/>cloudnative</a></span></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/self-service-argo-gitops-codefresh/>MERGING TO MAIN #6: THE JOURNEY TO SELF-SERVICE GITOPS, CODEFRESH, ONLINE</a></h3><p></p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Sat, Aug 19, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/cicd/>cicd</a><a class=tag href=/tags/gitops/>gitops</a><a class=tag href=/tags/argocd/>argocd</a><a class=tag href=/tags/cloudnative/>cloudnative</a></span></div></div><div class="post
-animated fadeInDown"><div class=post__content><h3><a href=/talks/2023/panel-kcd-cncf-groups-kcdguatemala/>PANEL KCD'S & CNCF GROUPS, KCD GUATEMALA, GUATEMALA</a></h3><p></p></div><div class=post__footer><em class="fas fa-calendar-day"></em>
-<span class=post__footer-date>Sat, Aug 19, 2023
-</span><span><a class=tag href=/tags/kubernetes/>kubernetes</a><a class=tag href=/tags/community/>community</a><a class=tag href=/tags/cloudnative/>cloudnative</a></span></div></div><div class=pagination><ul class=pagination__list><li class=pagination__list-item><a class=page-link href=/page/4/><i class="fa fa-angle-left" aria-label=Previous></i></a></li><li class=pagination__list-item><a class=page-link href=/>1</a></li><span class="page-link dots">&mldr;</span><li class=pagination__list-item><a class=page-link href=/page/4/>4</a></li><li class=pagination__list-item><span class="page-link current">5</span></li><li class=pagination__list-item><a class=page-link href=/page/6/>6</a></li><span class="page-link dots">&mldr;</span><li class=pagination__list-item><a class=page-link href=/page/10/>10</a></li><li class=pagination__list-item><a class=page-link href=/page/6/><i class="fa fa-angle-right" aria-label=Next></i></a></li></ul></div></main></div><footer class="footer footer__base"><ul class=footer__list><li class=footer__item>&copy;
-2020-2025</li></ul></footer><script type=text/javascript src=/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ=" crossorigin=anonymous></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-4RT9ZH2MBM"></script><script>var dnt,doNotTrack=!1;if(!1&&(dnt=navigator.doNotTrack||window.doNotTrack||navigator.msDoNotTrack,doNotTrack=dnt=="1"||dnt=="yes"),!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-4RT9ZH2MBM")}</script></body></html>
+<!doctype html>
+<html
+  dir="ltr"
+  lang="en"
+  data-theme=""
+  
+    class="html theme--light"
+  
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <title>
+    Sergio Méndez
+
+    
+
+  </title>
+
+  <meta name="generator" content="Hugo 0.130.0"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="author" content="Sergio Méndez" />
+  <meta
+    name="description"
+    content="DevOps, Cloud Native, Speaker, CNCF Ambassador, Kubernetes CK{A,AD}"
+  />
+  
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/scss/main.min.8d4fad7e6916ad2e291e8d97ada157c70350d6d7150fea137e7243340967befb.css"
+      integrity="sha256-jU&#43;tfmkWrS4pHo2XraFXxwNQ1tcVD&#43;oTfnJDNAlnvvs="
+      crossorigin="anonymous"
+      type="text/css"
+    />
+  
+
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.73ccfdf28df555e11009c13c20ced067af3cb021504cba43644c705930428b00.css"
+    integrity="sha256-c8z98o31VeEQCcE8IM7QZ688sCFQTLpDZExwWTBCiwA="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/fontawesome.min.137b1cf3cea9a8adb7884343a9a5ddddf4280f59153f74dc782fb7f7bf0d0519.css"
+    integrity="sha256-E3sc886pqK23iENDqaXd3fQoD1kVP3TceC&#43;3978NBRk="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/solid.min.e65dc5b48fb5f39b142360c57c3a215744c94e56c755c929cc3e88fe12aab4d3.css"
+    integrity="sha256-5l3FtI&#43;185sUI2DFfDohV0TJTlbHVckpzD6I/hKqtNM="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/regular.min.6f4f16d58da1c82c0c3a3436e021a3d39b4742f741192c546e73e947eacfd92f.css"
+    integrity="sha256-b08W1Y2hyCwMOjQ24CGj05tHQvdBGSxUbnPpR&#43;rP2S8="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/brands.min.e10425ad768bc98ff1fb272a0ac8420f9d1ba22f0612c08ff1010c95080ffe7e.css"
+    integrity="sha256-4QQlrXaLyY/x&#43;ycqCshCD50boi8GEsCP8QEMlQgP/n4="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
+
+  <link rel="canonical" href="http://localhost:1313/" />
+
+  
+  <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Sergio Méndez Website" />
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.f9132794301a01ff16550ed66763482bd848f62243d278f5e550229a158bfd32.js"
+    integrity="sha256-&#43;RMnlDAaAf8WVQ7WZ2NIK9hI9iJD0nj15VAimhWL/TI="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.d6d329d93844b162e8bed1e915619625ca91687952177552b9b3e211014a2957.js"
+      integrity="sha256-1tMp2ThEsWLovtHpFWGWJcqRaHlSF3VSubPiEQFKKVc="
+      crossorigin="anonymous"
+    ></script>
+  
+
+  
+
+  
+
+
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/images/site-feature-image.png">
+  <meta name="twitter:title" content="Sergio Méndez Website">
+  <meta name="twitter:description" content=" ">
+
+
+
+  
+  <meta property="og:url" content="http://localhost:1313/">
+  <meta property="og:site_name" content="Sergio Méndez Website">
+  <meta property="og:title" content="Sergio Méndez Website">
+  <meta property="og:description" content=" ">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="http://localhost:1313/images/site-feature-image.png">
+
+
+
+  
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "Sergio Méndez Website",
+      "url": "http:\/\/localhost:1313\/",
+      "description": "DevOps, Cloud Native, Speaker, CNCF Ambassador, Kubernetes CK{A,AD}",
+      "thumbnailUrl": "http:\/\/localhost:1313\/",
+      "license": "2020-2024"
+    }
+  </script>
+
+
+</head>
+<body class="body">
+    <div class="wrapper">
+      <aside
+        
+          class="wrapper__sidebar"
+        
+      ><div
+  class="sidebar
+    animated fadeInDown
+  "
+>
+  <div class="sidebar__content">
+    <div class="sidebar__introduction">
+      <img
+        class="sidebar__introduction-profileimage"
+        src="https://github.com/sergioarmgpl.png"
+        alt="profile picture"
+      />
+      
+        <div class="sidebar__introduction-title">
+          <h1>
+            <a href="/">I&#39;m Sergio Méndez</a>
+          </h1>
+        </div>
+      
+      <div class="sidebar__introduction-description">
+        <p>DevOps, Cloud Native, Speaker, CNCF Ambassador, Kubernetes CK{A,AD}</p>
+      </div>
+    </div>
+    <ul class="sidebar__list">
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://www.linkedin.com/in/sergioarmgpl"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Linkedin"
+            title="Linkedin"
+          >
+            <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://twitter.com/sergioarmgpl"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Twitter"
+            title="Twitter"
+          >
+            <i class="fab fa-twitter fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://github.com/sergioarmgpl"
+            target="_blank"
+            rel="noopener me"
+            aria-label="GitHub"
+            title="GitHub"
+          >
+            <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="mailto:sergioarm.gpl@gmail.com"
+            target="_blank"
+            rel="noopener me"
+            aria-label="e-mail"
+            title="e-mail"
+          >
+            <i class="fas fa-envelope fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+    </ul>
+  </div><footer class="footer footer__sidebar">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        2020-2024
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script>
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-4RT9ZH2MBM"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-4RT9ZH2MBM');
+        }
+      </script>
+    
+  
+
+</div>
+</aside>
+      <main
+        
+          class="wrapper__main"
+        
+      >
+        <header class="header"><div
+  class="
+    animated fadeInDown
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+  </a>
+  <nav class="nav">
+    <ul class="nav__list" id="navMenu">
+      
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+                class="nav__link--active"
+              
+              href="/"
+              
+              title=""
+              >Home</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="https://blog.sergiops.xyz"
+              
+                target="_blank" rel="noopener noreferrer"
+              
+              title=""
+              >Blog</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/talks/"
+              
+              title=""
+              >Talks</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/contribs/"
+              
+              title=""
+              >Contributions</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="https://github.com/sergioarmgpl"
+              
+                target="_blank" rel="noopener noreferrer"
+              
+              title=""
+              >Github</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="https://linktr.ee/sergioarmgpl"
+              
+                target="_blank" rel="noopener noreferrer"
+              
+              title=""
+              >My Content</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="https://docs.google.com/document/d/1YmA5-RoV41ejfd-nqiqG8gAyJOm2KsP9E48FgxHqimo/export?format=pdf"
+              
+                target="_blank" rel="noopener noreferrer"
+              
+              title=""
+              >Resume</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/about/"
+              
+              title=""
+              >About</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/books/"
+              
+              title=""
+              >My Book</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/contact/"
+              
+              title=""
+              >Contact</a
+            >
+          </li>
+        
+
+      
+    </ul>
+    <ul class="nav__list nav__list--end">
+      
+      
+        <li class="nav__list-item">
+          <div class="themeswitch">
+            <a title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </div>
+        </li>
+      
+    </ul>
+  </nav>
+</div>
+</header>
+  <div
+    class="post 
+      animated fadeInDown
+    "
+  >
+    <div class="post__content">
+      <!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+
+    </div>
+
+    
+  </div>
+
+  
+
+  
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/databases-edge-k3s-arm-dok/">DATABASES AT THE EDGE WITH K3S AND ARM DEVICES, DATA ON KUBERNETES (DOK)</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Mon, Nov 28, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/kubernetes/">kubernetes</a><a class="tag" href="/tags/edgecomputing/">edgecomputing</a><a class="tag" href="/tags/k3s/">k3s</a><a class="tag" href="/tags/arm/">arm</a><a class="tag" href="/tags/data/">data</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/tracking-devops-cdsummit/">TRACKING DEVOPS DATA IN EVENT DRIVEN CD PIPELINES, BRAD MCCOY, CONTINUOS DELIVERY SUMMIT, DETROIT</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Fri, Nov 25, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/kubernetes/">kubernetes</a><a class="tag" href="/tags/cicd/">cicd</a><a class="tag" href="/tags/ortelius/">ortelius</a><a class="tag" href="/tags/delivery/">delivery</a><a class="tag" href="/tags/keptn/">keptn</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/usactar-multicluster-linkerd-kcdspain/">SOCCER WORLD CUP WITH MULTI CLUSTER WITH KUBERNETES AND LINKERD, USAC UNIVERSITY, ALEX MÉNDEZ, JESSICA BOTÓN, CHRISTOFER BORRAYO, YÁSMIN MONTERROSO,SERGIO MÉNDEZ, KCDSPAIN, ONLINE</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Tue, Nov 15, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/kubernetes/">kubernetes</a><a class="tag" href="/tags/cncf/">cncf</a><a class="tag" href="/tags/cloudnative/">cloudnative</a><a class="tag" href="/tags/linkerd/">linkerd</a><a class="tag" href="/tags/kafka/">kafka</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/knative-k3s-knativecon/">SERVERLESS FUNCTIONS AT THE EDGE WITH KNATIVE AND K3S - SERGIO MÉNDEZ, USAC UNIVERSITY, KNATIVECONNA, DETROIT</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Thu, Nov 10, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/kubernetes/">kubernetes</a><a class="tag" href="/tags/cncf/">cncf</a><a class="tag" href="/tags/cloudnative/">cloudnative</a><a class="tag" href="/tags/serverless/">serverless</a><a class="tag" href="/tags/edgecomputing/">edgecomputing</a><a class="tag" href="/tags/knative/">knative</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/non-code-students-contributions-ccoss/">STUDENTS NON CODE CONTRIBUTIONS FOR LINKERD AND OTHER CNCF PROJECTS, SERGIO &amp; FLYNN, REPRESENTING CNCF,CCOSS, MÉXICO</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Thu, Nov 10, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/kubernetes/">kubernetes</a><a class="tag" href="/tags/cncf/">cncf</a><a class="tag" href="/tags/cloudnative/">cloudnative</a><a class="tag" href="/tags/cicd/">cicd</a><a class="tag" href="/tags/devops/">devops</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/keptn-community-day/">DRIVING INNOVATION WITH KEPTN AND INTEROPERABILITY, BRAD MCCOY, SERGIO MENDEZ, KEPTN COMMUNITY DAY, IN PERSON, DETROIT</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Tue, Oct 25, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/kubernetes/">kubernetes</a><a class="tag" href="/tags/keptn/">keptn</a><a class="tag" href="/tags/qualitygates/">qualitygates</a><a class="tag" href="/tags/cicd/">cicd</a><a class="tag" href="/tags/devops/">devops</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/smart-traffic-coecys/">SMART TRAFFIC SYSTEMS WITH COMPUTER VISION AND KUBERNETES AT THE EDGE, COECYS(STUDENTS SUMMIT), GUATEMALA, IN PERSON</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Thu, Sep 29, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/cncf/">cncf</a><a class="tag" href="/tags/cloudnative/">cloudnative</a><a class="tag" href="/tags/kubernetes/">kubernetes</a><a class="tag" href="/tags/k3s/">k3s</a><a class="tag" href="/tags/edgecomputing/">edgecomputing</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/anthos-knative-serverless-gdg-sophia-antipolis/">USING GOOGLE ANTHOS AND KNATIVE FOR YOUR SERVERLESS FUNCTIONS, GDG SOPHIA-ANTIPOLIS, FRANCE</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Wed, Sep 28, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/kubernetes/">kubernetes</a><a class="tag" href="/tags/knative/">knative</a><a class="tag" href="/tags/google/">google</a><a class="tag" href="/tags/anthos/">anthos</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/students-cncf-oss-latam/">GETTING INVOLVED STUDENTS INTO THE CNCF CLOUD NATIVE ECOSYSTEM, OPEN SOURCE SUMMIT LATAM, COMMUNITY LEADERSHIP CONFERENCE</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Wed, Aug 24, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/cncf/">cncf</a><a class="tag" href="/tags/cloudnative/">cloudnative</a><a class="tag" href="/tags/kubernetes/">kubernetes</a></span>
+
+
+        
+      </div>
+    </div>
+  
+    <div
+      class="post 
+        animated fadeInDown
+      "
+    >
+      
+      <div class="post__content">
+        <h3><a href="/talks/2022/smart-farms-edge-k8s-oss-latam/">BUILDING SMART FARMS WITH EDGE COMPUTING SYSTEMS USING KUBERNETES, OPEN SOURCE SUMMIT LATAM, EMBEDDED IOT SUMMIT</a></h3>
+        
+          <p><!-- raw HTML omitted -->
+</p>
+        
+        </div>
+
+      
+      <div class="post__footer">
+        <em class="fas fa-calendar-day"></em>
+        <span class="post__footer-date"
+          >
+            
+              Tue, Aug 23, 2022
+            
+
+          </span
+        >
+        
+
+        
+          <span><a class="tag" href="/tags/cncf/">cncf</a><a class="tag" href="/tags/cloudnative/">cloudnative</a><a class="tag" href="/tags/kubernetes/">kubernetes</a><a class="tag" href="/tags/iot/">iot</a><a class="tag" href="/tags/edgecomputing/">edgecomputing</a></span>
+
+
+        
+      </div>
+    </div>
+  
+  <div class="pagination">
+    
+  <ul class="pagination__list">
+    
+    
+    
+      <li class="pagination__list-item">
+        <a class="page-link" href="/page/4/">
+          <i class="fa fa-angle-left" aria-label="Previous"></i>
+        </a>
+      </li>
+    
+    
+      
+        <li class="pagination__list-item">
+          <a class="page-link" href="/">1</a>
+        </li>
+      
+
+    
+      
+        
+          
+          <span class="page-link dots">&hellip;</span>
+        
+
+      
+
+    
+      
+        
+
+      
+
+    
+      
+        <li class="pagination__list-item">
+          <a class="page-link" href="/page/4/">4</a>
+        </li>
+      
+
+    
+      
+        <li class="pagination__list-item">
+          <span class="page-link current">5</span>
+        </li>
+      
+
+    
+      
+        <li class="pagination__list-item">
+          <a class="page-link" href="/page/6/">6</a>
+        </li>
+      
+
+    
+      
+        
+          
+          <span class="page-link dots">&hellip;</span>
+        
+
+      
+
+    
+      
+        <li class="pagination__list-item">
+          <a class="page-link" href="/page/8/">8</a>
+        </li>
+      
+
+    
+    
+      <li class="pagination__list-item">
+        <a class="page-link" href="/page/6/">
+          <i class="fa fa-angle-right" aria-label="Next"></i>
+        </a>
+      </li>
+    
+  </ul>
+
+
+  </div>
+
+      </main>
+    </div><footer class="footer footer__base">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        2020-2024
+      
+    </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script>
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-4RT9ZH2MBM"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-4RT9ZH2MBM');
+        }
+      </script>
+    
+  
+
+</body>
+</html>
