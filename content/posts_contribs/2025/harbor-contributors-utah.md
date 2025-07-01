@@ -1,7 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Harbor at KubeCon Salt Lake City Interview by Sergio Méndez
-, CNCF, Youtube"
+title = "Harbor at KubeCon Salt Lake City Interview by Sergio Méndez, CNCF, Youtube"
 date = "2025-01-23"
 description = ""
 tags = [
