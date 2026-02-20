@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Cloud Native University NA 2024 Program Committee Member, Program Committee Member"
+title = "Cloud Native University NA 2024, Program Committee Member"
 date = "2024-09-09"
 description = ""
 tags = [

@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "KubeCon + CloudNativeCon Europe 2026 Program Committee Member, Program Committee Member"
+title = "KubeCon + CloudNativeCon Europe 2026, Program Committee Member"
 date = "2025-12-16"
 description = ""
 tags = [
