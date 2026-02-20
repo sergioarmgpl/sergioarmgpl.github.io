@@ -1,6 +1,6 @@
 +++
 author = "Sergio Méndez"
-title = "Grafana and data visualization dashboards, USAC, Guatemala, Online"
+title = "Creating edge computing solutions using hardware and Kubernetes, Arduino Day USAC, in-person,Guatemala"
 date = "2024-04-19"
 description = ""
 tags = [
