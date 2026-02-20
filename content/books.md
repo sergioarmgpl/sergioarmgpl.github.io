@@ -5,6 +5,10 @@ date: 2021-04-08
 description: The books I am working at the moment
 contact: false
 ---
+# From Kernel to The Cloud: Operating Systems in the Cloud Native Era (Coming Soon)
+This is my new book that I am writing, this new book include basic concepts around operating system, philosophy around software, main elements like the Kernel, process management, etc and how cloud native technologies work in parallel, so a lot of things coming for this book. This edition is in Spanish and self-published. Next version should be in English.
+
+# Edge Computing Systems with Kubernetes - Packt
 I wrote a book about Edge computing with Kubernetes. In this book you can find how to implement an edge computing system using K3s and Cloud Native technologies. Edge computing refers to process the information near to the source of data. It complement IoT scenarios to process information locally instead of send it to the cloud. So if you are interesting in IoT or hardware implementations this book can give you some good ideas to create your solutions using containers and Kubernetes.
 
 Title:
