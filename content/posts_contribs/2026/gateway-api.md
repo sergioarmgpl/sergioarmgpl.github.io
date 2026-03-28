@@ -13,6 +13,6 @@ tags = [
 +++
 In this blog post I explain how to migrate to use the Kubernetes Gateway API using NGINX Gateway Fabric and Cert-Manager for TLS certificates.
 
-[Link](https://dev.to/sergioarmgpl/goodbye-ingress-hello-gateway-api-migrating-th)
+[Link](https://dev.to/sergioarmgpl/goodbye-ingress-hello-gateway-api-migrating-the-right-way-20k9)
 <!--more-->
 

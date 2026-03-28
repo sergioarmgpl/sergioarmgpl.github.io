@@ -12,7 +12,6 @@ tags = [
 ]
 +++
 In this session, we'll have open mics on our Discord server this Thursday, February 26th, from 8:00 to 9:30 PM, so we can share our experiences working on Kubernetes deployments and how we communicate with developers who need their applications deployed. We'll explore the following questions:
-
 - Was the application failing due to your error or the developer's? How did you resolve it?
 - Did an upgrade break the application?
 - My ideal deployment was...
