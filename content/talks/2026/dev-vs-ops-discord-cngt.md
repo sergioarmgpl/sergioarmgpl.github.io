@@ -21,5 +21,7 @@ In this session, we'll have open mics on our Discord server this Thursday, Febru
 - I don't understand how this Kubernetes option works.
 
 I hosted and spoke in this Podcast in Discord.
+
 [Event](https://community.cncf.io/j/zhne8k823juq5/) | [Spotify](https://open.spotify.com/episode/0HgYfDN9HtK4Lnrql7D3cC?si=_PqPiVaNQAa3SPT1T4gmag)
+---
 <!--more-->
