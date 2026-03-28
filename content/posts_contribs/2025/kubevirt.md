@@ -13,5 +13,5 @@ tags = [
 +++
 In this blog post I explain how to install KubeVirt in GKE and how to create and use your own virtual machine image in KubeVirt.
 
-[Link](content/posts_contribs/2025/kubevirt.md)
+[Link](https://dev.to/sergioarmgpl/kubevirt-to-run-vms-in-your-k8s-cluster-4jh4)
 <!--more-->
